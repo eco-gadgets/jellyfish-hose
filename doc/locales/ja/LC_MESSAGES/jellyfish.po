@@ -1,0 +1,120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Akihiro Kuroiwa
+# This file is distributed under the same license as the Jellyfish Hose
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jellyfish Hose \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-30 18:07+0900\n"
+"PO-Revision-Date: 2022-10-31 21:37+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../jellyfish.rst:2
+msgid "Jellyfish Hose"
+msgstr "Jellyfish Hose"
+
+#: ../../jellyfish.rst:4
+msgid ""
+"What should be done to popularize seawater desalination equipment at a "
+"low price? This project is my conclusion. I was inspired by the venous "
+"valves in the veins of the lower limb of humans, which are oriented in "
+"the opposite direction to the siphon. However, this project is "
+"incomplete. I need your cooperation."
+msgstr "海水淡水化装置を低価格で普及するにはどうすれば良いか？私の出した結論がこのプロジェクトです。ちょうど、サイフォンとは逆向きの人間の下肢静脈の逆止弁から思いつきました。但し、このプロジェクトは未完成です。あなたの協力が必要です。"
+
+#: ../../jellyfish.rst:11
+msgid "Plan 1"
+msgstr "計画1"
+
+#: ../../jellyfish.rst:13
+msgid "The power source is wave power only"
+msgstr "動力源は波力のみ"
+
+#: ../../jellyfish.rst:14
+msgid ""
+"Take in seawater from the water intake and prevent backflow with a "
+"structure similar to a duckbill valve"
+msgstr "取水口から海水を取り込み、ダックビル・バルブと似た構造で逆流を防ぐ"
+
+#: ../../jellyfish.rst:16
+msgid ""
+"A hose is used to transport seawater to a reservoir installed at a high "
+"position, and its potential energy increases the water pressure."
+msgstr "ホースで高い位置に取り付けた貯水槽に海水を運び、その位置エネルギーで水圧を増す"
+
+#: ../../jellyfish.rst:18
+msgid "Pass through reverse osmosis membrane"
+msgstr "逆浸透膜に通す"
+
+#: ../../jellyfish.rst:21
+msgid "Plan 2"
+msgstr "計画2"
+
+#: ../../jellyfish.rst:23
+msgid "Intake same as above plan"
+msgstr "上記計画と同様の取水口"
+
+#: ../../jellyfish.rst:24
+msgid ""
+"Passing through a reverse osmosis membrane only with water pressure from "
+"wave power and marine propulsion."
+msgstr "波力や船の推進力による水圧のみで逆浸透膜を通す"
+
+#: ../../jellyfish.rst:26
+msgid "Storing fresh water in floating water bags"
+msgstr "海面に浮く袋に淡水を蓄える"
+
+#: ../../jellyfish.rst:27
+msgid "Continue to tow the water bag and carry it to your destination"
+msgstr "そのまま船で袋（ウォーター・バッグ）を牽引して目的地まで運ぶ"
+
+#: ../../jellyfish.rst:30
+msgid "Intake structure"
+msgstr "取水口の構造"
+
+#: ../../jellyfish.rst:32
+msgid "The water intake is named jellyfish, and the valve part is named asterisk."
+msgstr "取水口は jellyfish という名称をつけ、そのバルブ部分は asterisk という名称をつけました。"
+
+#: ../../jellyfish.rst:34
+msgid "Output this with a 3D printer and use silicone rubber as the material."
+msgstr "これを3Dプリンターで出力し、素材はシリコーンゴムにします。"
+
+#: ../../jellyfish.rst:36
+msgid "The water intake has several holes for tying several anchors with ropes."
+msgstr "取水口には幾つかの錨を綱で結ぶための穴が空いています。"
+
+#: ../../jellyfish.rst:38
+msgid ""
+"There is an asterisk-shaped valve at the tip of the water intake, and it "
+"connects with a commercially available hose."
+msgstr "取水口の先端部にはアスタリスク形状のバルブがあり、市販のホースとつなげます。"
+
+#: ../../jellyfish.rst:42
+msgid "ToDo"
+msgstr "ToDo"
+
+#: ../../jellyfish.rst:44
+msgid ""
+"I am looking for CAD design volunteers and funders. What I want to "
+"complete now is the CAD data of the water intake. It is under "
+"construction with `FreeCAD <https://www.freecadweb.org/index.php>`__. If "
+"you have a 3D printer, please test the performance of the water intake "
+"and publish the recorded video on YouTube. Please submit a pull request "
+"to fix the data."
+msgstr ""
+"CAD設計のボランティアや資金提供者を募集します。\n"
+"現在、完成させたいのは、取水口のCADデータです。`FreeCAD <https://www.freecadweb.org/index.php?lang=ja>`__ で制作中です。\n"
+"3Dプリンターを持っている方は、取水口の性能試験をし、記録映像を YouTube で公開して下さい。\n"
+"データの修正は pull request をして下さい。"
+
