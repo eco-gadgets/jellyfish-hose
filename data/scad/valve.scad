@@ -1,6 +1,8 @@
 module cross(geo=[5.7,0.8,8]) {
   translate([0, 0, 34]) {
-    for (i = [[0, 0, 0], [0, 0, 270]]) {
+    for (i = [[0, 0, 0],
+	      [0, 0, 240],
+	      [0, 0, 300]]) {
       rotate(i)
 	cube(geo, center = true);
     }}}
