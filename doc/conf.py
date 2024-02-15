@@ -22,7 +22,7 @@ copyright = '2022, Akihiro Kuroiwa'
 author = 'Akihiro Kuroiwa'
 
 # The full version, including alpha/beta/rc tags
-release = '0.0.1'
+release = '0.0.2'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,6 +31,7 @@ release = '0.0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinxcontrib.mermaid'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -53,3 +54,5 @@ html_theme = 'alabaster'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+mermaid_params = ['-p' 'puppeteer-config.json']

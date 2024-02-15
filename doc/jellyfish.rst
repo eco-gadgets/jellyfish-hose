@@ -17,6 +17,22 @@ Plan 1
    high position, and its potential energy increases the water pressure.
 -  Pass through reverse osmosis membrane
 
+.. mermaid::
+
+   flowchart BT
+       ocean((Ocean)) --> checkvalve1[Check Valve]
+       ocean --> checkvalve2[Check Valve]
+       ocean --> checkvalve3[Check Valve]
+       checkvalve1 --> tank[(Tank)]
+       checkvalve2 --> tank
+       checkvalve3 --> tank
+
+.. mermaid::
+
+   flowchart TB
+       tank[(Tank)] --> |potential_energy| reverse_osmosis[Reverse Osmosis Membrane]
+       reverse_osmosis --> freshwater[\Freshwater/]
+
 Plan 2
 ------
 
@@ -25,6 +41,12 @@ Plan 2
    from wave power and marine propulsion.
 -  Storing fresh water in floating water bags
 -  Continue to tow the water bag and carry it to your destination
+
+.. mermaid::
+
+   flowchart LR
+       ocean((Ocean)) --> |Marine Propulsion| checkvalve[Check Valve with Reverse Osmosis Membrane]
+       checkvalve --> tank(((Water Bag)))
 
 Intake structure
 ----------------
@@ -43,7 +65,9 @@ ToDo
 
 I am looking for CAD design volunteers and funders. What I want to
 complete now is the CAD data of the water intake. It is under
-construction with `FreeCAD <https://www.freecadweb.org/index.php>`__. If
-you have a 3D printer, please test the performance of the water intake
-and publish the recorded video on YouTube. Please submit a pull request
-to fix the data.
+construction with `FreeCAD <https://www.freecadweb.org/index.php>`__,
+`Antimony <https://github.com/mkeeter/antimony>`__ and `OpenSCAD
+<https://openscad.org/>`__.  Among them, FreeCAD data is poor quality.
+If you have a 3D printer, please test the performance of the water
+intake and publish the recorded video on YouTube. Please submit a pull
+request to fix the data.

@@ -1,4 +1,4 @@
-module cross(geo=[5.7,0.8,8]) {
+module asterisk(geo=[5.7,0.8,8]) {
   translate([0, 0, 34]) {
     for (i = [[0, 0, 0],
 	      [0, 0, 240],
@@ -10,8 +10,8 @@ module cross(geo=[5.7,0.8,8]) {
 module ellipsoid() {
   union() {
     difference() {
-      cross();
-      cross([5.3,0.1,8]);
+      asterisk();
+      asterisk([5.3,0.1,8]);
     }
     translate([0, 0, 20]) {
       cylinder(h = 14, r = 3);
