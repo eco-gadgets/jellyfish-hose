@@ -9,10 +9,7 @@ module asterisk(geo=[5.7,0.8,8]) {
 
 module ellipsoid() {
   union() {
-    difference() {
-      asterisk();
-      asterisk([5.3,0.1,8]);
-    }
+    asterisk();
     translate([0, 0, 20]) {
       cylinder(h = 14, r = 3);
     }
@@ -37,6 +34,7 @@ module anchor_holes() {
 
 difference() {
   ellipsoid();
+  asterisk([5.3,0.1,8]);
   translate([0, 0, 20]) {
     cylinder(h = 13.5, r = 2.8);
   }
