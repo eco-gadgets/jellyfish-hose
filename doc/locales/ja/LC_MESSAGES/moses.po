@@ -1,0 +1,256 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Akihiro Kuroiwa
+# This file is distributed under the same license as the Jellyfish Hose
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jellyfish Hose \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-13 20:44+0900\n"
+"PO-Revision-Date: 2024-05-13 20:45+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../moses.rst:3
+msgid "SF novel \"Gift of Coral\""
+msgstr "珊瑚からの贈り物"
+
+#: ../../moses.rst
+msgid "author"
+msgstr "author"
+
+#: ../../moses.rst:5
+msgid "Akihiro Kuroiwa, ChatGPT of OpenAI, Gemini, Perplexity AI, Claude 3 Haiku"
+msgstr "Akihiro Kuroiwa, ChatGPT of OpenAI, Gemini, Perplexity AI, Claude 3 Haiku"
+
+#: ../../moses.rst
+msgid "date"
+msgstr "date"
+
+#: ../../moses.rst:6
+msgid "2024/05/11"
+msgstr "2024/05/11"
+
+#: ../../moses.rst
+msgid "abstract"
+msgstr "abstract"
+
+#: ../../moses.rst:8
+msgid ""
+"Even though I invented a check valve for a wave-powered seawater "
+"desalination system and published the CAD data, it did not attract much "
+"attention, so I decided to write a science fiction novel to promote it "
+"with the help of the LLM. Many civilians were massacred by the Hamas and "
+"the Likud coalition. Time will not wait. I want as many people as "
+"possible to know my thoughts as soon as possible. This novel is a "
+"fictional story and is not related to any real people or organizations."
+msgstr "波力海水淡水化装置用の逆止弁を発明し、CADデータを公開しても、なかなか注目されないので、LLMの助けを得て宣伝用にSF小説を執筆することにしました。ハマスとリクード連立政権により多くの一般市民が虐殺されました。時は待ってくれません。できるだけ早く多くの人々に私の考えを知ってもらいたいのです。この小説は架空の話であり、実在の人物や組織と関わりはありません。"
+
+#: ../../moses.rst:17
+msgid "Chapter 1: Invitation of the Sea"
+msgstr "第1章: 海の誘い"
+
+#: ../../moses.rst:20
+msgid "Section 1: Encounter at the Exhibition"
+msgstr "第1節: 展示会での出会い"
+
+#: ../../moses.rst:22
+msgid ""
+"The vast halls of Tokyo Big Sight were filled with numerous booths, and "
+"participants exchanged information with excitement."
+msgstr "東京ビッグサイトの広大な会場。数多くのブースが立ち並び、参加者たちが興奮気味に情報を交換している。"
+
+#: ../../moses.rst:24
+msgid ""
+"Emilia Sanders, a woman with short blonde hair, blue eyes, and an air of "
+"intelligence with her glasses, strolled through the venue. She wore a "
+"white shirt and beige pants, giving off a professional impression. As a "
+"hydraulic engineer, she was keen on new technologies, especially those "
+"related to marine energy."
+msgstr "エミリア・サンダースは、ショートカットのブロンドヘアと青い瞳を持ち、知性を感じさせる眼鏡をかけている女性だ。彼女は白いシャツにベージュのパンツを着用し、プロフェッショナルな印象を与えていた。水利エンジニアとしての彼女は、新しい技術に興味津々だった。特に海洋エネルギーに関する展示に注目していた。"
+
+#: ../../moses.rst:26
+msgid ""
+"Entering the venue, Emilia was amazed by the many intriguing booths. "
+"Among them, she noticed a slender middle-aged Japanese man. Wearing "
+"glasses, he was enthusiastically explaining something, and a group of "
+"interested participants had gathered around him."
+msgstr "会場に入ると、エミリアは興味深いブースがたくさんあることに驚きながら歩き回る。そんな中、痩せこけた中年男性の姿が目に入った。眼鏡をかけたその日本人男性は熱心に何かを説明しており、周囲には興味津々な参加者たちが集まっていた。"
+
+#: ../../moses.rst:28
+msgid ""
+"Approaching the man's booth, Emilia listened intently to his explanation."
+" In broken English, he talked about his unique seawater desalination "
+"technology."
+msgstr "エミリアは男性のブースに近づき、彼の説明に耳を傾ける。男性は下手な英語で独自の海水淡水化技術について語っていた。"
+
+#: ../../moses.rst:30
+msgid ""
+"\"With this check valve, you can lift seawater up to a high position "
+"using only wave power. Then, you can use that potential energy to pass "
+"through the reverse osmosis membrane!\""
+msgstr "「この逆止弁を使えば、波力だけで海水を高い位置まで汲み上げることができるんです。その位置エネルギーを利用して、逆浸透膜を通すことができるんですよ！」"
+
+#: ../../moses.rst:32
+msgid ""
+"Emilia was fascinated, though the man's English was somewhat difficult to"
+" understand. Despite this, she listened eagerly, albeit with a wry smile."
+msgstr "エミリアは興味津々で聞き入るが、男性の英語はやや分かりづらく、エミリアは苦笑いしながらも熱心に話を聞いていた。"
+
+#: ../../moses.rst:34
+msgid ""
+"\"It's a small-scale, environmentally friendly system. I came up with it "
+"inspired by the human lower limb veins!\""
+msgstr "「小規模で環境に優しいシステムなんです。人間の下肢静脈をヒントに思いついたんですよ！」"
+
+#: ../../moses.rst:36
+msgid ""
+"Excitedly, Emilia pondered the potential of this technology. Intrigued by"
+" this new approach to seawater desalination, she intended to explore the "
+"exhibition further. Just then, her smartphone began to ring."
+msgstr "エミリアは興奮しながら、その技術の可能性を考える。海水淡水化に関する新たなアプローチに興味を持ち、展示会場をさらに探索しようと思った矢先、彼女のスマートフォンが鳴り始める。"
+
+#: ../../moses.rst:38
+msgid ""
+"\"It's a call from Arif Khan,\" the screen displayed. Surprised, Emilia "
+"decided to answer it then and there. With expectations rising for new "
+"developments at the exhibition, she picked up her smartphone."
+msgstr "『アリフ・ハーンさんからの連絡があります』と、画面に表示された。エミリアは驚きつつも、その場で電話に出ることに決めた。展示会場での新たな展開に期待を膨らませながら、彼女はスマートフォンを手に取った。"
+
+#: ../../moses.rst:40
+msgid ""
+"The Japanese man continues speaking, \"Do you all understand the English "
+"I speak? That's wonderful! I don't understand the English I speak.\""
+msgstr "その日本人男性は更に話し続ける「皆さん、私の話す英語がわかりますか？素晴らしい！私には私の話す英語がわかりません」"
+
+#: ../../moses.rst:44
+msgid "Section 2: Moment of Decision"
+msgstr "第2節: 決断の時"
+
+#: ../../moses.rst:46
+msgid ""
+"The plan to transfer water from the Red Sea's Gulf of Aqaba to the Dead "
+"Sea had been proposed multiple times in the past but had never come to "
+"fruition. However, with the resignation of the Likud coalition government"
+" and the formation of a peace-promoting cabinet in Israel, the situation "
+"was changing."
+msgstr "紅海のアカバ湾から死海への導水計画は、過去に何度も計画されながらも実現に至らなかった。しかし、リクード連立政権が退陣し、和平推進派の内閣がイスラエルで発足したことで、状況は変わりつつあった。"
+
+#: ../../moses.rst:48
+msgid ""
+"In Israel, a large-scale invasion of the Gaza Strip led to international "
+"condemnation due to civilian casualties. This event exerted strong "
+"pressure on the United States government, prompting a move towards "
+"significant intervention in Palestine-Israel peace efforts."
+msgstr "イスラエルでは、ガザ地区への大規模な侵攻が行われ、それに伴う民間人虐殺が国際的な非難を浴びる事態となった。この出来事は、アメリカ合衆国政府にも強い圧力をかけ、パレスチナ和平に本格的に介入する動きが生まれた。"
+
+#: ../../moses.rst:50
+msgid ""
+"Amidst this, the past water transfer plan garnered attention once again. "
+"At the United Nations, a proposal was put forward by Rebecca Hamilton of "
+"the U.S. government and Sara al-Jabri of Jordan for a United States of "
+"Palestine and Israel."
+msgstr "その中で、過去の導水計画が再び注目されることとなった。国連の場で、アメリカ政府代表のレベッカ・ハミルトンが議案にし、ヨルダンのサラ・アル＝ジャブリがパレスチナとイスラエルの合衆国案を提案した。"
+
+#: ../../moses.rst:52
+msgid ""
+"Within the U.S. government, there were cautious discussions about the "
+"revival of the water transfer plan. However, with the addition of the "
+"crucial element of the return of Palestinian refugees, expectations for "
+"the plan grew."
+msgstr "アメリカ政府内では、導水計画の再浮上について慎重な議論が行われた。しかし、パレスチナ人難民の帰還という重要な要素が追加されたことで、計画に対する期待が高まった。"
+
+#: ../../moses.rst:54
+msgid ""
+"Emilia Sanders was acquainted with Arif Khan, who was involved in this "
+"plan. He had recommended her to the American government officials. She "
+"was intrigued by the revival of the water transfer plan and would play a "
+"significant role in it."
+msgstr "エミリア・サンダースは、この計画に参加することになったアリフ・ハーンの知り合いだった。彼女をアメリカ政府関係者に推薦したのは彼だった。彼女は導水計画の復活について興味を持ち、その場面で重要な役割を担うことになる。"
+
+#: ../../moses.rst:56
+msgid ""
+"At the United Nations debate, Emilia listened to the proposals of Rebecca"
+" Hamilton from the U.S. and Sara al-Jabri from Jordan."
+msgstr "国連の議論の場で、エミリアはアメリカのレベッカ・ハミルトンとヨルダンのサラ・アル＝ジャブリの提案に耳を傾けた。"
+
+#: ../../moses.rst:58
+msgid "Rebecca Hamilton explained the significance of the water transfer plan."
+msgstr "レベッカ・ハミルトンが導水計画の意義を説明する。"
+
+#: ../../moses.rst:60
+msgid ""
+"\"Once, there was a water transfer plan that utilized the elevation "
+"difference from the Gulf of Aqaba to the Dead Sea [cite1]_, but it "
+"failed. Amidst environmental issues and escalating conflicts, we must "
+"revive this plan. Why? Because this plan includes the crucial element of "
+"the return of Palestinian refugees. For Palestinian landowners whom the "
+"Israeli government cannot return their land [cite2]_, we will provide "
+"alternative settlements.\""
+msgstr ""
+"「かつて、アカバ湾から死海までの高低差を利用した導水計画がありましたが、 [cite1]_ "
+"その計画は頓挫してしまいました。環境問題と紛争が激しくなる中、我々はその計画を復活させねばなりません。何故か？この計画には、パレスチナ人難民の帰還という重要な要素が含まれているからです。イスラエル政府が返還できない土地の"
+" [cite2]_ パレスチナ人所有者には、代替の入植地を提供します」"
+
+#: ../../moses.rst:62
+msgid ""
+"Next to take the stage was a woman dressed in sophisticated attire, "
+"exuding a confident aura. With intelligent eyes and a firm set to her "
+"lips, she emanated strong conviction and an unyielding will. It was Sara "
+"al-Jabri delivering her speech."
+msgstr "次に演壇に立った女性は、洗練された服装を身にまとい、自信に満ちたオーラを放っている。知的な目元と、切れ長の唇を持つその姿は、強い信念を持ち、困難にも屈しない意志の強さを感じさせる。サラ・アル＝ジャブリが演説する。"
+
+#: ../../moses.rst:64
+msgid ""
+"\"While we sympathize with the Israelis who have been wandering for "
+"thousands of years, this does not justify expelling Palestinians and "
+"confining them to narrow spaces. It is a modern-day confiscation "
+"violating ownership rights. We demand the return of Palestinians. They "
+"have the right to return to their homeland. This plan is essential for "
+"regional stability and peace. We aim for a state where Palestinians and "
+"Israelis can live together. Jordan's government will also participate in "
+"this plan. Specifically, we will expand the Aqaba-Amman Water "
+"Desalination and Conveyance Project (AAWDCP) and create alternative "
+"settlements to facilitate the return of Palestinians to their rightful "
+"homes.\""
+msgstr "「国を追われて何千年も流浪せざるを得なかったイスラエル人には同情しますが、だからといって、パレスチナ人を追い出し、狭い場所に閉じ込める正当な理由にはなりません。近代法の所有権に抵触した収奪です。私たちはパレスチナ人の帰還を求めます。彼らには故郷へ帰る権利があります。この計画は、地域の安定と平和に不可欠です。そして、パレスチナ人とイスラエル人が共に暮らす国家を目指すのです。この計画にヨルダン政府も参加します。具体的には、アカバ・アンマン造水・送水プロジェクト（AAWDCP）を拡大し、パレスチナ人のための代替入植地を造成します」"
+
+#: ../../moses.rst:66
+msgid ""
+"Emilia realized that this plan was not just a water resource development "
+"project. It was a historical project with the potential to resolve the "
+"Palestinian issue."
+msgstr "エミリアは、この計画が単なる水資源開発プロジェクトではないことに気づいた。それは、パレスチナ問題の解決に繋がる可能性を秘めた、歴史的なプロジェクトだった。"
+
+#: ../../moses.rst:68
+msgid ""
+"\"Can I participate in this plan? I believe my expertise would be "
+"valuable.\""
+msgstr "「この計画に参加させていただけませんか？私の専門知識が役に立つと信じています」"
+
+#: ../../moses.rst:70
+msgid ""
+"She reached out to a man with a calm demeanor, wearing traditional "
+"Pakistani attire, Salwar Kameez, with black hair and beard."
+msgstr "彼女は、パキスタンの民族衣装であるサルワールカミーズを着用し、黒い髪とひげを蓄えた、落ち着いた雰囲気の男性に手を差し伸べた。"
+
+#: ../../moses.rst:72
+msgid ""
+"Arif Khan: \"Emilia, please do participate. Your experience and skills "
+"are invaluable to this plan.\""
+msgstr "アリフ・ハーン「エミリアさん、ぜひ参加してください。あなたの経験と技術力は、この計画にとって非常に貴重です」"
+
+#: ../../moses.rst:74
+msgid ""
+"Emilia and Arif Khan shook hands, exchanging smiles. Emilia had made her "
+"decision to stake her efforts on this plan."
+msgstr "エミリアとアリフ・ハーンは握手を交わし、お互いに笑顔で挨拶を交わした。エミリアは、この計画に賭ける決意を固めた。"
+

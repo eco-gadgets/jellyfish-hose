@@ -1,0 +1,807 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Akihiro Kuroiwa
+# This file is distributed under the same license as the Jellyfish Hose
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jellyfish Hose \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-12 21:22+0900\n"
+"PO-Revision-Date: 2024-05-12 21:32+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../zipporah.rst:2
+msgid "Chapter 2: The Unknown Waterway"
+msgstr "第2章: 未知の水路"
+
+#: ../../zipporah.rst:5
+msgid "Section 1: Calm Seas"
+msgstr "第1節: 静かな海"
+
+#: ../../zipporah.rst:7
+msgid ""
+"At Ben Gurion International Airport, amidst the hustle and bustle, "
+"Israeli Prime Minister Sharon Levi personally welcomed Emilia. She was a "
+"fervent supporter of this project."
+msgstr "ベン・グリオン国際空港では、忙しい合間を縫って、イスラエルのシャロン・レヴィ首相が自ら出迎えてくれた。彼女はこの計画の熱烈な支援者だった。"
+
+#: ../../zipporah.rst:9
+msgid ""
+"With her silver hair and sharp eyes, Sharon exuded an intimidating aura, "
+"yet Emilia felt a warmth in the occasional smile she displayed, a "
+"kindness that watched over people."
+msgstr "銀色の髪と鋭い目を持つ、威圧感のある女性だが、彼女が時折見せる笑みには人々を温かく見守る優しさがあると、エミリアは感じるのだった。"
+
+#: ../../zipporah.rst:11
+msgid ""
+"First, Emilia was introduced to Damian White, an American who was "
+"assigned to guard her. A former military man, now working as a military "
+"consultant, he was tasked by the U.S. government to ensure that history "
+"did not repeat itself with another assassination like that of Prime "
+"Minister Rabin. At Prime Minister Levi's request, he was also assigned to"
+" oversee the security of the water transfer project. He would accompany "
+"Emilia from now on."
+msgstr ""
+"まず、彼女を警護するアメリカ人、ダミアン・ホワイトを紹介された。彼は元軍人で、現在は軍事コンサルタントとして活動している。\n"
+"ラビン首相暗殺の二の舞にならぬようアメリカ政府の依頼を受けて彼女を警護している。\n"
+"レヴィ首相の頼みで、導水計画の警備担当も任されることになった。これから先、エミリアに同行する。"
+
+#: ../../zipporah.rst:13
+msgid ""
+"Emilia: \"My ancestors immigrated from Ireland during the potato famine. "
+"Did yours too?\""
+msgstr "エミリア「私の先祖は馬鈴薯飢饉の時にアイルランドから移住したんですが、あなたの先祖もそうですか？」"
+
+#: ../../zipporah.rst:15
+msgid ""
+"Damian: \"Yes, you're well-versed in history. Actually, my family were "
+"potato farmers. Coming to America and still growing potatoes must mean "
+"they went through a lot. Is your family frying chicken?\""
+msgstr "ダミアン「ええ、歴史に詳しいんですね。実は、私の実家は馬鈴薯農家なんです。アメリカに来てからも馬鈴薯を栽培するなんて、よほど、ひもじい思いをしたんでしょう。あなたの家はフライドチキンを揚げてるの？」"
+
+#: ../../zipporah.rst:17
+msgid "Emilia: \"No!\""
+msgstr "「違います！」"
+
+#: ../../zipporah.rst:19
+msgid ""
+"After bidding farewell to Prime Minister Levi at the press conference, "
+"the group headed south. Their destination was a port town."
+msgstr "記者会見をするレヴィ首相と別れ、一行は南へ向かう。目的地は港町だ。"
+
+#: ../../zipporah.rst:21
+msgid ""
+"Daniel Cohen, an Israeli water purification facility technician, entered "
+"the meeting room. He wore glasses and a plain appearance, always in worn-"
+"out work clothes, with messy hair. However, he had a solid demeanor and "
+"an intellectual gaze. Emilia welcomed him and extended her hand."
+msgstr "イスラエル人の浄水施設技術者、ダニエル・コーエンが会議室に入ってきた。彼は眼鏡をかけた、地味な印象の男性で、常にヨレヨレの作業着を着用しているらしく、髪もボサボサであるが、堅実な風貌で、知的な眼差しを持っていた。エミリアは彼を迎え、手を差し出した。"
+
+#: ../../zipporah.rst:23
+msgid "Emilia: \"Welcome, Daniel. Thank you for joining our project.\""
+msgstr "「ダニエルさん、ようこそ。私たちの計画に参加していただき、ありがとうございます」"
+
+#: ../../zipporah.rst:25
+msgid ""
+"Daniel: \"Thank you, Emilia. I'm honored to be involved in this project. "
+"As a water purification facility technician, I will do my best.\""
+msgstr "「ありがとうございます、エミリアさん。この計画に関われることを光栄に思います。浄水施設の技術者として、最善を尽くします」"
+
+#: ../../zipporah.rst:27
+msgid ""
+"The handshake between Emilia and Daniel symbolized the beginning of a new"
+" step."
+msgstr "エミリアとダニエルの握手が、新たな一歩の始まりを象徴していた。"
+
+#: ../../zipporah.rst:29
+msgid ""
+"The view from the meeting room window was the emerald green Gulf of Aqaba"
+" and the distant mountains. In the sunshine, the quiet coastline "
+"stretched out. In this beautiful landscape, their mission began."
+msgstr "会議室の窓から見える景色は、エメラルドグリーンのアカバ湾と、遠くに連なる山々だった。日差しの中、静かな海岸線が広がっている。この美しい風景の中で、彼らの使命が始まるのだった。"
+
+#: ../../zipporah.rst:31
+msgid ""
+"\"John Smith here. My specialty is marine engineering. And no, it's not a"
+" fake name.\""
+msgstr "「ジョン・スミスです。専門は海洋エンジニアリングです。偽名ではないですよ」"
+
+#: ../../zipporah.rst:33
+msgid ""
+"Emilia chuckled beside Damian's suspicious look. \"Haha, that's a common "
+"assumption with names. Well, let's start with assessing the environmental"
+" impact of the Gulf of Aqaba. We need your expertise, John Smith.\""
+msgstr "訝しげに睨むダミアンの隣で笑うエミリア「フフ、確かに偽名によくありますね。さて、まずはアカバ湾の環境影響評価を進めましょう。ジョン・スミスさん、あなたの専門知識が必要です」"
+
+#: ../../zipporah.rst:35
+msgid "\"Understood. I'll start working right away.\""
+msgstr "「了解しました。早速、作業に取り掛かります」"
+
+#: ../../zipporah.rst:37
+msgid ""
+"They began their work in the meeting room, conducting a detailed "
+"assessment of the environmental impact of the Gulf of Aqaba."
+msgstr "彼らは会議室で作業を開始し、アカバ湾の環境について詳細な評価を行っていくのだった。"
+
+#: ../../zipporah.rst:39
+msgid ""
+"Emilia: \"John, what do you think the impact on marine life in the Gulf "
+"of Aqaba might be?\""
+msgstr "エミリア「ジョンさん、アカバ湾の海洋生物への影響はどの程度だと考えられますか？」"
+
+#: ../../zipporah.rst:41
+msgid ""
+"John: \"It's still in the investigation stage, but we're concerned about "
+"the impact on coral reefs and plankton. Especially, the change in "
+"salinity due to seawater pumping needs attention.\""
+msgstr "ジョン「まだ調査段階ですが、サンゴ礁やプランクトンへの影響は懸念されます。特に、海水汲み上げによる塩分濃度変化は注意が必要です」"
+
+#: ../../zipporah.rst:43
+msgid ""
+"Emilia: \"I see. What measures do you think are necessary to minimize the"
+" impact on the environment?\""
+msgstr "エミリア「なるほど。環境への影響を最小限に抑えるためには、どのような対策が必要でしょうか？」"
+
+#: ../../zipporah.rst:45
+msgid ""
+"John: \"Adjustment of seawater pumping volume and adoption of "
+"technologies with minimal impact on marine life are some "
+"considerations.\""
+msgstr "ジョン「海水汲み上げ量の調整や、海洋生物への影響が少ない技術の採用などが考えられます」"
+
+#: ../../zipporah.rst:47
+msgid ""
+"Emilia: \"Thank you. Let's proceed with careful consideration, taking "
+"into account the opinions of environmental organizations.\""
+msgstr "エミリア「ありがとうございます。環境保護団体の意見も聞きながら、慎重に検討を進めていきましょう」"
+
+#: ../../zipporah.rst:49
+msgid ""
+"Emilia and John delved into discussions about the environmental impact "
+"assessment."
+msgstr "エミリアとジョンは、環境影響評価に関する議論を深めていった。"
+
+#: ../../zipporah.rst:51
+msgid ""
+"The atmosphere in the meeting room was increasingly charged. Geologist "
+"Arif Khan provided data on terrain and geological conditions, while "
+"environmental conservationists Isa Abdul and Nadia Alhani from `the Royal"
+" Marine Conservation Society of Jordan (JREDS) <http://www.jreds.org/en-"
+"us/>`__ expressed concerns about the local ecosystem."
+msgstr ""
+"会議室の熱気は高まる一方だった。地質学者のアリフ・ハーンは地形や地質条件に関するデータを提供し、環境保護団体・`ヨルダン王立海洋保護協会 "
+"(JREDS) <http://www.jreds.org/en-us/>`__ "
+"のイサ・アブドゥルとナディア・アルハーニは地元の生態系への影響について懸念を表明した。"
+
+#: ../../zipporah.rst:53
+msgid ""
+"Isa Abdul: \"Seawater desalination holds great potential for regional "
+"development, but we must carefully consider its impact on the precious "
+"ecosystem of the Gulf of Aqaba. Our mission is to strike a balance "
+"between development and environmental protection.\""
+msgstr "イサ・アブドゥル「海水淡水化は地域の発展に大きな可能性を秘めていますが、アカバ湾の貴重な生態系への影響を慎重に検討する必要があります。開発と環境保護のバランスを取ることが私たちの使命です」"
+
+#: ../../zipporah.rst:55
+msgid ""
+"Nadia Alhani: \"Fish and sea turtles, as well as the abundant marine life"
+" of the Gulf of Aqaba, are our valuable assets. When introducing seawater"
+" desalination, prioritizing the protection of coral reefs and other "
+"marine life is essential. Implementing measures to minimize environmental"
+" impact is crucial.\""
+msgstr "ナディア・アルハーニ「魚もウミガメも、アカバ湾の豊かな海洋生物は私たちの大切な財産です。海水淡水化の導入にあたっては、サンゴ礁などの保護を最優先に考えなければなりません。環境への影響を最小限に抑える対策を講じることが不可欠です」"
+
+#: ../../zipporah.rst:57
+msgid ""
+"Emilia listened carefully to each opinion and worked to adjust the plan "
+"accordingly."
+msgstr "エミリアはそれぞれの意見を丁寧に聞き、計画の調整に努めた。"
+
+#: ../../zipporah.rst:59
+msgid ""
+"Emilia: \"Thank you for your valuable input. We will do our best to "
+"minimize the impact on the environment and realize a sustainable plan.\""
+msgstr "エミリア「貴重な御意見をありがとうございます。環境への影響を最小限に抑え、持続可能な計画を実現できるよう、最善を尽くします」"
+
+#: ../../zipporah.rst:61
+msgid ""
+"Outside the meeting room window, the blue sea of the Gulf of Aqaba "
+"stretched far away. Its silent waves seemed to push forward their "
+"determination."
+msgstr "会議室の窓からは、遠くにアカバ湾の青い海が広がっていた。その静寂な海が、彼らの決意を後押ししているようだった。"
+
+#: ../../zipporah.rst:63
+msgid ""
+"Emilia renewed her resolve. She would give her all to ensure that this "
+"project contributed to the peace and prosperity of the region."
+msgstr "エミリアは決意を新たにする。この計画が地域の平和と繁栄に貢献できるよう、全力を尽くしていく。"
+
+#: ../../zipporah.rst:67
+msgid "Section 2: Encounter of Engineers"
+msgstr "第2節: 技術者の邂逅"
+
+#: ../../zipporah.rst:69
+msgid ""
+"The team first inspected the seawater desalination plant, known as the "
+"Sabha Plant [cite3]_ [cite4]_ [cite5]_ [cite6]_ [cite7]_. Daniel Cohen "
+"guided them through the facility and explained about the water supply in "
+"Eilat."
+msgstr ""
+"一行はまず、海水淡水化施設 Sabha plant [cite3]_ [cite4]_ [cite5]_ [cite6]_ [cite7]_ "
+"を視察した。ダニエル・コーエンが施設内を案内し、エイラトの水供給について説明した。"
+
+#: ../../zipporah.rst:71
+msgid ""
+"\"This is called the 'Sabha C Plant.' It was the first seawater "
+"desalination facility built in Israel and the Middle East. Initially, it "
+"used evaporation methods, but later upgraded to reverse osmosis.\""
+msgstr "「これは『サバCプラント』と呼ばれています。イスラエルと中東で初めて建設された海水淡水化施設なんです。最初は蒸発法を使っていましたが、後に逆浸透法にアップグレードされました」"
+
+#: ../../zipporah.rst:73
+msgid "Emilia asked, \"What makes this facility different from others?\""
+msgstr "エミリアが質問する「この施設が他と異なる点は？」"
+
+#: ../../zipporah.rst:75
+msgid ""
+"\"This facility can desalinate water from both seawater and groundwater, "
+"all in the same place. It's one of the most advanced seawater "
+"desalination facilities in the world. Additionally, the reverse osmosis "
+"process in the facility is highly energy-efficient and environmentally "
+"friendly.\""
+msgstr "「この施設は海水と地下水の両方から水を淡水化できるんです。それも同じ場所でね。これは世界でも最も進んだ海水淡水化施設の一つになっているんですよ。それに、施設の逆浸透プロセスはエネルギー効率が非常に高く、環境にも配慮しているんです」"
+
+#: ../../zipporah.rst:77
+msgid ""
+"Sara looked around the facility with admiration. She understood the "
+"technological advancement of the Sabha C Plant and its significant "
+"contribution to the region's livelihoods and tourism."
+msgstr "サラは感心しながら施設を見回した。サバCプラントの技術の進歩と、それが地域の生活と観光業にどれほど貢献しているかを理解した。"
+
+#: ../../zipporah.rst:79
+msgid ""
+"Next, they exchanged ideas about involving private companies in the "
+"project."
+msgstr "更に民間企業の計画の参加について意見交換をした。"
+
+#: ../../zipporah.rst:81
+msgid ""
+"Daniel: \"This is a state-owned company, but it would be beneficial to "
+"have private sector involvement as well. Utilizing existing facilities "
+"and expanding their functions is the best approach. The Israeli Highway "
+"90 and Jordan's Highway 65 along the Wadi Araba are considered optimal "
+"roads for laying the pipeline from the Gulf of Aqaba to the Dead Sea. The"
+" Sabha C Plant is ideally located for this. We should be able to green a "
+"wide area.\""
+msgstr "ダニエル「ここは国有企業ですが、民間企業の参入も良いでしょう。既存の施設を有効利用して機能拡張することが最善策ですよ。ワジ・アラバ沿いのイスラエルの公道90号線とヨルダンの国道65号線が、アカバ湾から死海までを結ぶ水道管を埋設する上で最適な道路と考えられます。その立地条件としてサバCプラントは最適な場所にあります。広範囲を緑化できるはずです」"
+
+#: ../../zipporah.rst:83
+msgid ""
+"Arif Khan also points out, \"Laying the pipeline along the Jordan Rift "
+"Valley would be ideal.\""
+msgstr "アリフ・ハーンも指摘する「ヨルダン地溝帯に沿って水道管を埋設するのが理想ですね」"
+
+#: ../../zipporah.rst:85
+msgid ""
+"They then conducted an agricultural inspection around Eilat. Emilia and "
+"the team visited agricultural facilities and engaged in discussions with "
+"local farmers."
+msgstr "続いてエイラト周辺の農業視察が行われた。エミリアとチームは、農業施設を視察し、地元の農家との意見交換を行った。"
+
+#: ../../zipporah.rst:87
+msgid ""
+"While walking through the farmland around Eilat, Emilia enjoyed "
+"conversations with Israeli farmers who were working diligently in the "
+"desert, contributing to the regional economy."
+msgstr "エミリアと計画チームは、エイラト周辺の農地を歩きながら、イスラエルの農家たちとの会話を楽しんでいた。彼らは砂漠の中で農業を営み、地域経済に貢献している。"
+
+#: ../../zipporah.rst:89
+msgid ""
+"Emilia approached one farmer, Ari Dayan, and asked, \"Ari, what are the "
+"challenges facing agriculture in this area?\""
+msgstr "エミリアは一人の農家、アリ・ダヤンに話しかけた。「アリさん、この地域での農業はどんな課題に直面していますか？」"
+
+#: ../../zipporah.rst:91
+msgid ""
+"Ari replied, \"First and foremost, it's water. To farm in the desert, "
+"water efficiency is essential. Also, the rising salinity of groundwater "
+"due to excessive pumping is a problem.\""
+msgstr ""
+"アリ: "
+"「まず第一に、水ですね。砂漠の中で農業をするためには、水利用の効率化が欠かせません。また、過剰な汲み上げにより地下水の塩分濃度が上昇していることも問題です」"
+
+#: ../../zipporah.rst:93
+msgid ""
+"Yasmin Khalidi, a representative of the Bedouin community standing next "
+"to Ari, added, \"Indeed, we Bedouins also face water issues. Water is the"
+" source of life for us who have lived in this land for generations.\""
+msgstr "その隣に立つベドウィンの代表、ヤスミン・ハリディが加わった。「そうですね。私たちベドウィンも同じく水の問題に直面しています。昔からこの地で生活してきた私たちにとって、水は命の源なのです」"
+
+#: ../../zipporah.rst:95
+msgid ""
+"Listening to their stories, Emilia understood the difficulty of "
+"agriculture in the Negev desert."
+msgstr "エミリアは彼らの話を聞きながら、ネゲヴ砂漠の厳しい環境下での農業の難しさを理解した。"
+
+#: ../../zipporah.rst:97
+msgid ""
+"Later, during a conversation with Bedouin representatives, they discussed"
+" their history and persecution."
+msgstr "その後、ベドウィンの代表との会話で、彼らの歴史や迫害についても触れられた。"
+
+#: ../../zipporah.rst:99
+msgid ""
+"Yasmin Khalidi said, \"The Bedouin history is long, and we have been "
+"living in this land for generations. However, modernization has brought "
+"significant changes to our lives. Persecution, territorial disputes "
+"between nations, and resulting instability have been ongoing issues. "
+"Besides working on this farm, I also work as a tour guide. You can "
+"experience Bedouin life in the Negev Desert. How about you?\""
+msgstr "ヤスミン・ハリディ: 「ベドウィンの歴史は長く、この地で暮らしてきました。しかし、近代化の波により、私たちの生活は大きく変わりました。迫害や国同士の土地の奪い合い、それによる生活の不安定さが続いています。この農場の仕事だけでなく、私の場合はツアーガイドの仕事もしています。ネゲブ砂漠でベドウィンの生活を体験出来るんですよ。皆さんもどうですか？」"
+
+#: ../../zipporah.rst:101
+msgid "Emilia listened attentively, understanding the challenges they faced."
+msgstr "エミリアは彼らの話を真剣に聞きながら、彼らが直面する困難な現実を胸に刻んだ。"
+
+#: ../../zipporah.rst:103
+msgid ""
+"Afterward, Emilia and the team toured the drip irrigation systems in the "
+"farmlands and continued discussions with the farmers."
+msgstr "それからエミリアは農地の点滴灌漑システムを見て回り、技術革新の重要性を感じながら、農家たちとの会話を続けた。"
+
+#: ../../zipporah.rst:105
+msgid ""
+"Emilia remarked, \"This drip irrigation system is wonderful. It "
+"contributes to efficient water use.\""
+msgstr "エミリア: 「この点滴灌漑システムは素晴らしいですね。水の効率的な利用に役立っています」"
+
+#: ../../zipporah.rst:107
+msgid ""
+"Ari responded, \"Indeed. We used to rely on groundwater, but due to "
+"rising salinity, we switched to this system. Now we can use water more "
+"efficiently.\""
+msgstr "アリが答えた「そうです。以前は地下水を使っていましたが、塩分濃度が上昇してきたため、このシステムに切り替えました。これでより効率的に水を利用できます」"
+
+#: ../../zipporah.rst:109
+msgid ""
+"Emilia praised their efforts, understanding the impact of their "
+"initiatives on the environment."
+msgstr "エミリアは、彼らの取り組みが環境に与える影響を理解しながら、彼らの努力を称賛した。"
+
+#: ../../zipporah.rst:111
+msgid ""
+"Next, Emilia and the team passed through the border checkpoint and "
+"departed for a local inspection in Aqaba, Jordan, guided by Ahmad Harris."
+" While riding in the limousine, Emilia felt it was a bit extravagant, but"
+" she decided to follow their lead."
+msgstr "次に、エミリアと計画チームは、国境の検問所を通り、アフマド・ハリスの案内でヨルダンのアカバの現地視察に出発した。リムジンに乗り込む際、エミリアはやや大げさな手段だと感じたが、彼らの案内に従うこととした。"
+
+#: ../../zipporah.rst:113
+msgid ""
+"Looking out the window, they saw the scenery around the Aqaba Gulf. Olive"
+" and date trees along the coast and scattered farmland in the desert "
+"caught their eyes."
+msgstr "車窓から外を眺めると、アカバ湾周辺の風景が広がっていた。海辺に広がるオリーブやデーツの樹木、砂漠の中に点在する農地が目に飛び込んできた。"
+
+#: ../../zipporah.rst:115
+msgid ""
+"Ahmad Harris said, \"Fruit tree cultivation [cite8]_, such as olives and "
+"dates, is thriving in this region. Local farmers struggle to cultivate in"
+" this dry land, but the wind blowing from the Gulf of Aqaba helps retain "
+"moisture. Recently, the Sahara Forest Project has been planting trees "
+"here.\""
+msgstr ""
+"アフマド・ハリス「この地域では、オリーブやデーツなどの果樹栽培が [cite8]_ "
+"盛んです。地元の農家たちは、この乾燥した土地での栽培に苦労していますが、アカバ湾の風が湾に吹き込むことで水分を確保しています。果樹栽培は水をあまり必要としないので最近は"
+" Sahara Forest Project により植樹が行われているんですよ」"
+
+#: ../../zipporah.rst:117
+msgid ""
+"Emilia was impressed by the sight of farmers toiling hard and understood "
+"their contribution to the regional economy."
+msgstr "エミリアは車窓から農地を眺め、農民たちが懸命に働く姿に感銘を受けた。彼らの努力が地域経済にどれほど貢献しているかを理解した。"
+
+#: ../../zipporah.rst:119
+msgid ""
+"Along the coastline, they observed fishing boats swaying on the waves and"
+" fishers pulling up nets."
+msgstr "海岸沿いでは、漁船が波に揺られ、漁師たちが網を引き上げる姿が見えた。"
+
+#: ../../zipporah.rst:121
+msgid ""
+"Ahmad Harris commented, \"Fishing is also a significant industry in the "
+"region. However, in recent years, fish species and catch volumes have "
+"decreased due to rising sea temperatures and pollution.\""
+msgstr "アフマド・ハリス「漁業も地域の重要な産業の一つです。しかし、近年は海水温度の上昇や汚染の影響で、魚の種類や漁獲量が減少しています」"
+
+#: ../../zipporah.rst:123
+msgid ""
+"Emilia thought about the importance of protecting the sea, recalling the "
+"significance of coral conservation."
+msgstr "エミリアは海の保護について考え、珊瑚の保護が重要だということを思い出した。"
+
+#: ../../zipporah.rst:125
+msgid ""
+"\"Coastal coral reefs play a vital role in the local ecosystem. However, "
+"they may be threatened by pollution and excessive tourism. What "
+"initiatives are in place for coral protection locally?\" Emilia asked."
+msgstr "エミリア「海岸に沿った珊瑚礁は、地域の生態系にとって重要な役割を果たしています。しかし、汚染や過剰な観光によって傷ついている可能性がありますね。珊瑚の保護について、地元の取り組みはどうなっていますか？」"
+
+#: ../../zipporah.rst:127
+msgid "With a deep sigh, Ahmad began discussing coral protection efforts."
+msgstr "アフマドは深いため息をつきながら、珊瑚の保護について話し始めた。"
+
+#: ../../zipporah.rst:129
+msgid ""
+"\"Local environmental organizations like JREDS are focusing on coral "
+"protection, but challenges remain due to expanding tourism and local "
+"habitat encroachment. We aim for sustainable development and coral "
+"protection, but the challenges are immense.\""
+msgstr "アフマド・ハリス「現地の環境保護団体であるヨルダン王立海洋保護協会が、珊瑚の保護に力を入れていますが、観光業の拡大や地元の生活圏の拡大により、問題は山積しています。我々は地域の持続可能な発展と珊瑚の保護の両立を目指していますが、課題は山積しています」"
+
+#: ../../zipporah.rst:131
+msgid ""
+"Emilia admired the local efforts for coral protection and resolved to "
+"continue the discussion further."
+msgstr "エミリアは珊瑚の保護に対する地元の取り組みに感心しながら、さらに議論をすることを心に決めた。"
+
+#: ../../zipporah.rst:135
+msgid "Section 3: Resonance of the Region"
+msgstr "第3節: 地域の共振"
+
+#: ../../zipporah.rst:137
+msgid ""
+"Following the order of inspections, Emilia and the planning team first "
+"visited the base of tourism operators. Guided by Ahmad, they inspected "
+"beaches, local hotels, and tourist facilities and held meetings with "
+"tourism operators."
+msgstr "エミリアと計画チームは、視察の順番に従って、まず観光業者の拠点を訪れた。アフマドの案内で、ビーチや地元のホテルや観光施設を視察し、観光業者との会合を持った。"
+
+#: ../../zipporah.rst:139
+msgid ""
+"Emilia: \"Local tourism is a vital element for the regional economy. "
+"Especially, there must be many tourists coming for scuba diving to see "
+"the coral reefs, right? We plan to conduct an environmental impact "
+"assessment before fully implementing the intake plan for the seawater "
+"desalination system to prevent salinity rise. Any questions?\""
+msgstr "エミリア「地元の観光業は、地域の経済にとって重要な要素ですね。特に、珊瑚を目当てに訪れるスキューバダイビングの観光客が多いでしょう？海水淡水化装置の取水口を分散させて塩分濃度が上昇しないようにする計画ですが、本格導入する前に環境影響評価をしようと思います。何か質問は？」"
+
+#: ../../zipporah.rst:141
+msgid "Among the attendees, one hotel owner spoke up."
+msgstr "出席したホテルオーナーの内、一人の女性が発言する。"
+
+#: ../../zipporah.rst:143
+msgid ""
+"Layla Najim: \"Large resorts require a significant amount of water. We "
+"are always concerned about water availability. We also treat and reuse "
+"wastewater. Of course, as local tourism operators, we strive to protect "
+"and promote sustainable tourism for the region's tourism resources. We "
+"don't want to compromise the landscape, but we also recognize the "
+"importance of the water intake project. So, my proposal is, how about "
+"using it as an environmental education space? We want to create eco-"
+"friendly facilities that divers from around the world can be proud of.\""
+msgstr "レイラ・ナジーム「大型のリゾートホテルでは水が大量に必要になります。私たちは常に水の確保に頭を悩ませています。排水を処理して再利用もしているんですよ。勿論、私たちは地元の観光業者として、地域の観光資源の保護と持続可能な観光の推進に努めています。出来る限り景観を損ねたくありませんが、導水計画の重要性についても認識しています。そこで提案なのですが、環境教育の場として活用するのは如何ですか？世界中から集まるダイバーの皆さんに誇れるような環境に優しい設備にしてもらいたいです」"
+
+#: ../../zipporah.rst:145
+msgid "Nadia Al-Hani, from JREDS, who also works here, spoke up."
+msgstr "視察に同行しているヨルダン王立海洋保護協会のナディア・アルハーニが発言する。ここは彼女の職場でもあるのだ。"
+
+#: ../../zipporah.rst:147
+msgid ""
+"\"That's an interesting proposal. Development and conservation often "
+"conflict, but with the right approach, they can be reconciled. Also, if "
+"the intakes are small, they can be installed in marinas within resort "
+"facilities.\""
+msgstr "「面白い提案ですね。開発と自然保護は相反することが多いですが、方法次第で両立は可能なはずです。それに、取水口が小型であれば、リゾート施設内のマリーナに分散させて設置出来るでしょう」"
+
+#: ../../zipporah.rst:149
+msgid ""
+"Next, they moved to the base of maritime shipping companies and "
+"investigated the current situation of the shipping industry and its "
+"environmental impact. Emilia and the team inspected port facilities and "
+"shipping equipment and held meetings with shipping companies."
+msgstr "次に、海運業者の拠点に移動し、海運業の現状や環境への影響について調査を行った。エミリアとチームは、港湾施設や海運業の設備を視察し、海運業者との会合を持った。"
+
+#: ../../zipporah.rst:151
+msgid "Isa Abdul, a member of JREDS working at the port facility, spoke up."
+msgstr "ヨルダン王立海洋保護協会のメンバーで、港湾施設に勤務するイサ・アブドゥルが発言する。"
+
+#: ../../zipporah.rst:153
+msgid ""
+"\"Installing large seawater desalination units at ports capable of "
+"docking large cruise ships can minimize environmental impact. We'll "
+"brainstorm ways to install them without obstructing ships. Industrial "
+"areas should also be considered as installation sites.\""
+msgstr "「大型客船の着岸できる港湾施設に大型の海水淡水化装置を設置すれば、環境への影響を最小限に抑えることが出来るでしょう。船の邪魔にならないような設置方法を皆で考えますよ。工業地区の敷地も設置場所として検討すべきでしょう」"
+
+#: ../../zipporah.rst:155
+msgid ""
+"Emilia: \"Thank you. For the intake project, we need not only small but "
+"also large systems. It's a strong candidate for the installation site.\""
+msgstr "エミリア「宜しく御願いします。導水計画のためには、小型のものだけでなく、大型のシステムも設置しなければなりません。設置場所の有力候補になります」"
+
+#: ../../zipporah.rst:157
+msgid ""
+"After that, Emilia and the team visited fishing ports and boats, and "
+"exchanged views with fishers."
+msgstr "その後、エミリアとチームは、漁港や漁船を見学し、漁業者たちとの意見交換を行った。"
+
+#: ../../zipporah.rst:159
+msgid ""
+"During the meeting, hamour [cite9]_ dishes were served, and discussions "
+"took place over the meal."
+msgstr "会合の席でハムールの料理が [cite9]_ 振る舞われ、食事をしながら話し合いをした。"
+
+#: ../../zipporah.rst:161
+msgid ""
+"Damian whispered to Emilia, \"Phew, I'm glad it's not sushi. I'm not a "
+"fan of raw fish.\""
+msgstr "ダミアンは小声でエミリアに言う「やれやれ、寿司でなくてよかった。生魚は苦手なんだ」"
+
+#: ../../zipporah.rst:163
+msgid ""
+"Emilia: \"We need to attach anchors to the intake for the seawater "
+"desalination system. But it won't be just any anchors; we plan to make "
+"them artificial fishing reefs.\""
+msgstr "エミリア「海水淡水化装置の取水口には錨を結びつける必要があります。単なる錨ではなく、漁礁を兼ねたものにする予定です」"
+
+#: ../../zipporah.rst:165
+msgid "Nadia made a sarcastic remark."
+msgstr "ナディアが嫌味を言う。"
+
+#: ../../zipporah.rst:167
+msgid ""
+"Nadia Al-Hani: \"Since fishing is an indispensable industry for local "
+"livelihoods, achieving sustainable fishing requires regulations on catch "
+"volumes and stronger management. Decreased catch volume may not be solely"
+" due to environmental degradation, right?\""
+msgstr "「漁業は地域の生活に欠かせない産業ですから、持続可能な漁業の実現に向けては、漁獲量規制や管理の強化が必要です。水揚げ量が減っている原因は環境の悪化ばかりではないでしょう？」"
+
+#: ../../zipporah.rst:169
+msgid "One of the fishers spoke up."
+msgstr "漁業者の一人が発言する。"
+
+#: ../../zipporah.rst:171
+msgid ""
+"Fares Al-Hariri: \"Of course, conservation of the marine ecosystem and "
+"the development of fisheries must go hand in hand. Sustainable management"
+" of fisheries resources is essential. It would be great to have places "
+"where fish can spawn and young fish can grow. If the fish disappear, "
+"we'll have to close down.\""
+msgstr "ファリス・アル＝ハリール「勿論、海洋生態系の保護と漁業の発展は両立する必要があります。漁業資源の持続的な管理が不可欠です。魚が卵を産んで幼魚が育つ場所があれば素晴らしいことです。魚がいなくなったら廃業するしかありませんからな」"
+
+#: ../../zipporah.rst:173
+msgid ""
+"Finally, they moved to a base for agriculture near Aqaba and held a "
+"meeting on the current situation and challenges of local agriculture. "
+"Emilia and the team inspected vegetable greenhouse cultivation [cite10]_ "
+"and irrigation facilities and exchanged views with farmers."
+msgstr ""
+"最後に、アカバ近郊の農業の拠点に移動し、地元の農業の現状や課題についての会合が行われた。エミリアとチームは、野菜のハウス栽培 [cite10]_ "
+"や灌漑施設を視察し、農家たちとの意見交換を行った。"
+
+#: ../../zipporah.rst:175
+msgid "One of the farmers spoke up."
+msgstr "農家の一人が発言する。"
+
+#: ../../zipporah.rst:177
+msgid ""
+"Mohammad Al-Harimi: \"Efficient water use and soil management are crucial"
+" to ensure the sustainability of agriculture. Local farmers are working "
+"on this, but with many small-scale farmers, further support is needed.\""
+msgstr "ムハンマド・アル＝ハリーミ「農業の持続可能性を確保するためには、効率的な水利用と土壌管理が重要です。地元の農家はこれに取り組んでいますが、小規模農家が多く、さらなる支援が必要です」"
+
+#: ../../zipporah.rst:179
+msgid ""
+"Isa Abdul: \"Agriculture plays an important role in the regional economy,"
+" but faces challenges such as water shortage and rising salinity of "
+"groundwater and soil. Technological innovation and policy support are "
+"needed for sustainable agriculture.\""
+msgstr "イサ・アブドゥル「農業は地域経済にとって重要な役割を果たしていますが、灌漑水の不足や地下水や土壌の塩分濃度の上昇などの課題に直面しています。持続可能な農業の実現に向けて、技術革新と政策支援が必要です」"
+
+#: ../../zipporah.rst:181
+msgid ""
+"Lastly, a visit to Taba in Egypt was conducted. Emilia and the team "
+"visited the beautiful beaches and resort facilities in Taba and held "
+"meetings with local tourism operators."
+msgstr "最後に、エジプトのタバの視察も行われた。エミリアとチームは、タバの美しいビーチやリゾート施設を訪れ、地元の観光業者との会合を持った。"
+
+#: ../../zipporah.rst:183
+msgid "Emilia asked an interesting question to the tourism operators."
+msgstr "エミリアは、観光業者に対して興味深い質問を投げかけた。"
+
+#: ../../zipporah.rst:185
+msgid ""
+"Emilia: \"How has tourism in Taba developed? And what are the impacts on "
+"the local community and the environment?\""
+msgstr "エミリア: 「タバの観光業はどのように発展してきましたか？また、地元のコミュニティや環境への影響はどうなっていますか？」"
+
+#: ../../zipporah.rst:187
+msgid "One of the local tourism operators responded."
+msgstr "地元の観光業者の一人が答える。"
+
+#: ../../zipporah.rst:189
+msgid ""
+"Karim Najim: \"Taba is known for its beautiful coastline and coral reefs,"
+" attracting an increasing number of tourists each year. However, this "
+"rapid tourism development also affects local livelihoods. Excessive "
+"tourism development in some areas has negative effects on the living "
+"environment and coral reefs. We strongly feel the need for sustainable "
+"tourism development.\""
+msgstr ""
+"カリム・ナジーム: "
+"「タバは美しい海岸線やサンゴ礁で知られており、観光客が年々増加しています。しかし、この急速な観光業の発展は地元の生活にも影響を与えています。一部の地域では過剰な観光開発が生活環境やサンゴ礁に悪影響を及ぼしています。持続可能な観光開発の必要性を強く感じています」"
+
+#: ../../zipporah.rst:191
+msgid ""
+"Emilia understood their concerns and reaffirmed the importance of "
+"sustainable tourism. Discussions were then held on efforts for coral reef"
+" protection and local community development."
+msgstr "エミリアは彼らの懸念を理解し、持続可能な観光業の重要性を再確認した。その後、サンゴ礁の保護や地元のコミュニティの発展に向けた取り組みについて、議論が行われた。"
+
+#: ../../zipporah.rst:193
+msgid ""
+"Emilia dived into the waters of the Aqaba Gulf to observe the coral "
+"reefs. The colorful coral reefs and diverse marine life delighted her. "
+"John, who was accustomed to scuba diving, led the way. Damian, wary of "
+"John, followed along. They experienced the unique features of the Aqaba "
+"Gulf's rapidly deepening terrain."
+msgstr ""
+"エミリアはアカバ湾の珊瑚を観察するために、水中の世界へと潜った。色鮮やかな珊瑚礁とそこに生息する多彩な海洋生物が、彼女の目を楽しませた。\n"
+"スキューバダイビングに慣れたジョンが先導する。ジョンを警戒するダミアンもついてくる。\n"
+"急激に深くなるアカバ湾の地形の特徴を彼等は実感した。"
+
+#: ../../zipporah.rst:195
+msgid ""
+"Emilia and the team enjoyed interacting with the local people while "
+"appreciating the beautiful natural environment and tourism resources of "
+"Taba."
+msgstr "エミリアとチームは、タバの美しい自然環境と観光資源を堪能しながら、地元の人々との交流を楽しんだ。"
+
+#: ../../zipporah.rst:199
+msgid "Section 4: Waves of the Future"
+msgstr "第4節: 未来の波"
+
+#: ../../zipporah.rst:201
+msgid ""
+"Emilia took out a sample of a wave-powered seawater desalination device "
+"from her bag and proposed it to the planning team."
+msgstr "エミリアは、荷物から取り出した波力海水淡水化装置のサンプルを手に取り、計画チームに提案を行った。"
+
+#: ../../zipporah.rst:203
+msgid ""
+"Emilia: \"Everyone, take a look at this. This is a small-scale wave-"
+"powered seawater desalination device using a check valve-equipped intake "
+"port that I found at a trade show in Tokyo. Because it's small, we can "
+"disperse the intake ports and spread them out like veins. Let's conduct a"
+" demonstration experiment to desalinate seawater from the Aqaba Gulf "
+"using this device. We'll show the locals the effectiveness of this system"
+" and demonstrate the potential of the project.\""
+msgstr "エミリア「皆さん、見てください。これは、東京の展示会場で見つけた逆止弁つき取水口を使った小型の波力海水淡水化装置です。小型なので取水口を分散でき、血管のように張り巡らすことが出来ます。この装置を使って、アカバ湾の海水を淡水化する実証実験を行いましょう。地元の人々にこのシステムの効果を見てもらい、計画の可能性を実証しましょう」"
+
+#: ../../zipporah.rst:205
+msgid "The planning team expressed their approval of Emilia's proposal."
+msgstr "計画チームは、エミリアの提案に賛成の声を上げた。"
+
+#: ../../zipporah.rst:207
+msgid ""
+"Arif: \"That's a fantastic idea, Emilia. Actually running it will prove "
+"the potential of this system.\""
+msgstr "アリフ「素晴らしいアイデアですね、エミリアさん。実際に動かしてみれば、このシステムの潜在能力を証明できるでしょう」"
+
+#: ../../zipporah.rst:209
+msgid ""
+"Layla: \"The cooperation of the local people is essential. We need to "
+"explain to them the benefits of this project and get their support.\""
+msgstr "レイラ「地元の人々の協力も不可欠です。彼らがこの計画に理解を示し、協力してくれるように説明する必要があります」"
+
+#: ../../zipporah.rst:211
+msgid ""
+"Emilia, along with the planning team, began preparations for the "
+"demonstration experiment. They cooperated with local fishers and tourism "
+"operators to choose a location for installing the device and obtained the"
+" necessary permits."
+msgstr "エミリアは、計画チームと共に、実証実験の準備に取り掛かった。地元の漁民や観光業者と協力し、装置を設置する場所を選び、必要な許可を得た。"
+
+#: ../../zipporah.rst:213
+msgid ""
+"Several weeks later, the device was completed, and the demonstration "
+"experiment began. The device used the power of the waves and a check "
+"valve to lift seawater and separate seawater and freshwater using a "
+"reverse osmosis membrane. It was confirmed that the separated freshwater "
+"could be used for drinking and irrigation purposes."
+msgstr "数週間後、装置は完成し、いよいよ実証実験が始まった。装置は波の力と逆止弁を利用して海水を引き上げ、逆浸透膜により海水と淡水を分離した。分離された淡水は、飲料水や灌漑用水として利用できることが確認された。"
+
+#: ../../zipporah.rst:215
+msgid ""
+"Emilia: \"The experiment was a success! This device can efficiently "
+"desalinate seawater using the wave power of the Aqaba Gulf. By dispersing"
+" the intake ports, we can also prevent the increase in salinity.\""
+msgstr "エミリア「実験成功です！この装置は、アカバ湾の波力を利用して、効率的に海水淡水化を行うことが可能です。取水口を分散して塩分濃度上昇も抑えられるでしょう」"
+
+#: ../../zipporah.rst:217
+msgid ""
+"The locals were amazed by the results of the demonstration experiment and"
+" cheered with joy."
+msgstr "地元の人々は、実証実験の結果に驚き、喜びの声を上げた。"
+
+#: ../../zipporah.rst:219
+msgid ""
+"Fares Al-Hariri: \"With this, we won't have to worry about water for "
+"washing ship hulls.\""
+msgstr "ファリス・アル＝ハリール「これがあれば、海水で船体を洗浄する水の心配がなくなります」"
+
+#: ../../zipporah.rst:221
+msgid "Mohammad Al-Harimi: \"With this, we can grow salt-resistant crops.\""
+msgstr "ムハンマド・アル＝ハリーミ「これを使って、塩害に強い作物を栽培できるようになります」"
+
+#: ../../zipporah.rst:223
+msgid ""
+"Emilia, seeing the success of the demonstration experiment, became "
+"confident in the potential of the project."
+msgstr "エミリアは、実証実験が成功したことで、計画の可能性を確信した。"
+
+#: ../../zipporah.rst:227
+msgid "Section 5: Venturing into the Depths of the Sea"
+msgstr "第5節: 海の深層への挑戦"
+
+#: ../../zipporah.rst:229
+msgid ""
+"Emilia and the planning team were progressing with their investigations "
+"for the construction of a larger-scale system. As part of these "
+"investigations, they decided to explore the possibility of extracting "
+"deep-sea water [cite11]_ from the Aqaba Gulf."
+msgstr ""
+"エミリアと計画チームは、より大規模なシステム構築に向けた調査を進めていた。その調査の一つとして、アカバ湾沖合の海洋深層水を [cite11]_ "
+"取水できるかを調査することになった。"
+
+#: ../../zipporah.rst:231
+msgid ""
+"Deep-sea water was believed to be suitable for seawater desalination "
+"because of its low temperature, low bacteria content, and reduced need "
+"for disinfectants. With the cooperation of the Egyptian and Saudi Arabian"
+" governments, Emilia chartered a research vessel and set out to the "
+"waters offshore from the Aqaba Gulf."
+msgstr "海洋深層水は、温度が低く、雑菌が少なく、消毒薬使用を抑えられ、海水淡水化に適していると考えられていた。エミリアは、エジプトやサウジアラビア政府との協力の下、調査船をチャーターし、アカバ湾沖合へ向かった。"
+
+#: ../../zipporah.rst:233
+msgid ""
+"From the sea, Emilia saw the cities of Aqaba and Eilat, and they appeared"
+" as utopian visions for the future of the waterway project. If the "
+"project proceeded smoothly, settlement development would begin, serving "
+"as a reference for the future."
+msgstr "エミリアには、沖から眺めるアカバとエイラトの街並は導水計画の将来像を描く上で理想郷に思えた。計画が順調に進めば入植地の開発が始まるから、その参考となるのだ。"
+
+#: ../../zipporah.rst:235
+msgid ""
+"The research vessel spent several days conducting investigations into "
+"deep-sea water. Data on water temperature, salinity, nutrients, and other"
+" factors were collected, confirming that deep-sea water was suitable for "
+"seawater desalination."
+msgstr "調査船は、数日間にわたって海洋深層水の調査を行った。水温、塩分濃度、栄養分などのデータが収集され、海洋深層水が海水淡水化に適していることが確認された。"
+
+#: ../../zipporah.rst:237
+msgid ""
+"John: \"The results of the investigation are promising. By utilizing "
+"deep-sea water, we can desalinate seawater more efficiently. It's also "
+"cold, so it can be used for regional air conditioning.\""
+msgstr "ジョン「調査結果も良好です。海洋深層水を利用すれば、より効率的に海水淡水化を行うことができます。冷たいので、地域の冷房にも利用できますよ」"
+
+#: ../../zipporah.rst:239
+msgid ""
+"Emilia was satisfied with the results of the deep-sea water "
+"investigation. She felt that they had taken a significant step towards "
+"realizing the project."
+msgstr "エミリアは、海洋深層水調査の結果に満足していた。計画実現に向けて、大きな一歩を踏み出したと感じていた。"
+
+#: ../../zipporah.rst:241
+msgid "Emilia: \"The future of the Aqaba Gulf is right in front of us.\""
+msgstr "エミリア「アカバ湾の未来は、もうすぐ目の前です」"
+

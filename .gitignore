@@ -4,3 +4,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Translations
+*.mo
+*.pot
+
+# Sphinx documentation
+docs/_build/

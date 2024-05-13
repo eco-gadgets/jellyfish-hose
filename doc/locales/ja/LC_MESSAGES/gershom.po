@@ -1,0 +1,283 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Akihiro Kuroiwa
+# This file is distributed under the same license as the Jellyfish Hose
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jellyfish Hose \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-08 22:35+0900\n"
+"PO-Revision-Date: 2024-05-12 13:14+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../gershom.rst:2
+msgid "Chapter 3: Bridging Waters"
+msgstr "第3章: 水の架け橋"
+
+#: ../../gershom.rst:5
+msgid "Section 1: Green Future"
+msgstr "第1節: 緑の未来"
+
+#: ../../gershom.rst:7
+msgid ""
+"Under the regional greening project connecting the Red Sea to the Dead "
+"Sea, representatives including Leila Al-Fardi from Palestine, Sarah Al-"
+"Jabri from Jordan, and Amir Goldstein from Israel gathered at the "
+"International Conference Center in Amman to discuss water allocation."
+msgstr "紅海から死海へと続く地域の緑化計画の下、パレスチナのレイラ・アル＝ファーディ、ヨルダンのサラ・アル＝ジャブリ、そしてイスラエルのアミル・ゴールドスタイン代表らが、水の配分についての協議を行うため、アンマンの国際会議センターで会合を開いた。"
+
+#: ../../gershom.rst:9
+msgid ""
+"Daniel Cohen provided detailed explanations on the technical aspects of "
+"the water conveyance project while discussing the technical challenges "
+"and possibilities in water allocation."
+msgstr "ダニエル・コーエンは、導水計画の技術面での詳細な説明を行いながら、水の配分における技術的な課題と可能性を議論した。"
+
+#: ../../gershom.rst:11
+msgid ""
+"Daniel Cohen: \"In this project, we will utilize the elevation difference"
+" between the Red Sea and the Dead Sea to construct a conveyance system "
+"for supplying water to the Dead Sea while generating electricity "
+"simultaneously. This will effectively utilize the region's water "
+"resources and build a sustainable environment.\""
+msgstr "ダニエル・コーエン「この計画では、紅海と死海の標高差を利用し、導水路を建設して死海への水供給と同時に発電も行います。これにより、地域の水資源を有効活用し、持続可能な環境を築くことが可能です」"
+
+#: ../../gershom.rst:13
+msgid ""
+"Drawing on his knowledge of geology and topography, Arif Khan proposed "
+"suitable routes for the conveyance system considering the region's "
+"terrain and discussed its feasibility."
+msgstr "アリフ・ハーンは、地質や地形の知識を活かして、地域の地形に適した導水路のルートを提案し、その実現可能性を論じた。"
+
+#: ../../gershom.rst:15
+msgid ""
+"Arif Khan: \"By considering the region's geology and topography, we can "
+"determine the optimal route for the conveyance system, minimizing its "
+"impact on the environment and ecosystems. It's crucial to exclude "
+"heritage sites and natural reserves from the route. In Jordan's Aqaba "
+"Governorate, there are wadis (seasonal rivers), and upstream there are "
+"dams [cite12]_ [cite13]_. We should utilize these existing water supply "
+"systems and integrate them.\""
+msgstr "アリフ・ハーン「地域の地質や地形を考慮することで、導水路の最適なルートを決定し、地域の環境や生態系への影響を最小限に抑えることができます。遺跡や自然遺産は特にルートから除外せねばなりません。ヨルダンのアカバ県にはワジと呼ばれる涸れ川があり、上流にはダムもあります。 [cite12]_ [cite13]_ 既存の給水システムと統合するためにも、それらを活用すべきです」"
+
+#: ../../gershom.rst:17
+msgid ""
+"Representing Israel, Amir Goldstein discussed Israel's position on water "
+"allocation and proposed ideas regarding the return of Palestinian "
+"refugees and alternative settlement sites."
+msgstr "イスラエル代表のアミル・ゴールドスタインは、水の配分におけるイスラエルの立場を代表し、パレスチナ難民の帰還や代替入植地に関する提案について議論した。"
+
+#: ../../gershom.rst:19
+msgid ""
+"Amir Goldstein: \"If this project is realized, it is expected to have a "
+"positive impact on the entire region. The return of Palestinian refugees "
+"and the establishment of alternative settlement sites would contribute to"
+" regional peace and stability.\""
+msgstr "アミル・ゴールドスタイン「この計画が実現すれば、地域全体に良い影響をもたらすことが期待されます。パレスチナ難民の帰還や代替入植地の設置は、地域の平和と安定に寄与するでしょう」"
+
+#: ../../gershom.rst:21
+msgid ""
+"Concerns were raised about the extensive funding required to realize the "
+"project. During the meeting, discussions were held on the negotiation "
+"process with potential financiers, including the World Bank, various "
+"governments, and private investors through Public-Private Partnerships "
+"(PPP)."
+msgstr "計画実現に向けて、膨大な資金調達が必要となることが懸念されていた。会議では、世界銀行、各国政府の拠出、Public-Private Partnerships (PPP)による民間の投資家等、想定される出資者との交渉の経緯と会話が共有された。"
+
+#: ../../gershom.rst:23
+msgid ""
+"Emilia: \"To realize this project, we need funding on the scale of "
+"billions of dollars. We must actively negotiate with the World Bank, "
+"various governments, and private enterprises.\""
+msgstr "エミリア「この計画を実現するには、数十億ドル規模の資金調達が必要となります。世界銀行や各国政府、民間企業との交渉を積極的に進めていく必要があります」"
+
+#: ../../gershom.rst:25
+msgid ""
+"Leila: \"The World Bank has a track record of financing sustainable "
+"development projects. By emphasizing environmental protection and "
+"consideration for local communities, we may be able to secure "
+"financing.\""
+msgstr "レイラ「世界銀行は、持続可能な開発プロジェクトへの融資実績があります。環境保護や地域住民への配慮をアピールすることで、融資を獲得できる可能性があります」"
+
+#: ../../gershom.rst:27
+msgid ""
+"Sarah: \"Engaging with various governments is crucial, especially "
+"neighboring Arab countries. Forming agreements on water allocation and "
+"building cooperation based on common interests are essential.\""
+msgstr "サラ「各国政府への働きかけも重要です。特に、地域に隣接するアラブ諸国の協力は不可欠です。水の配分に関する合意を形成し、共通の利益に基づいて協力関係を築く必要があります」"
+
+#: ../../gershom.rst:29
+msgid ""
+"Amir: \"Methods like PFI need to be considered as well. By leveraging the"
+" funds and expertise of private enterprises, we can efficiently advance "
+"the project.\""
+msgstr "アミル「PFI などの手法も検討する必要があります。民間企業の資金とノウハウを活用することで、効率的な計画推進が可能となります」"
+
+#: ../../gershom.rst:31
+msgid ""
+"Representatives from each country shared specific ideas on fundraising "
+"and deepened the discussion."
+msgstr "各国の代表者は、資金調達に関する具体的なアイデアを出し合い、議論を深めていった。"
+
+#: ../../gershom.rst:33
+msgid ""
+"Emilia: \"Funding won't be easy, but through persistent negotiations with"
+" stakeholders, we will make it happen.\""
+msgstr "エミリア「資金調達は容易ではありませんが、関係者との粘り強い交渉を通じて、必ず実現させましょう」"
+
+#: ../../gershom.rst:35
+msgid ""
+"The atmosphere in the conference room was filled with hope and "
+"determination."
+msgstr "会議室の空気に、希望と決意が満ち溢れていた。"
+
+#: ../../gershom.rst:39
+msgid "Section 2: Miracle of the Dead Sea"
+msgstr "第2節: 死海の奇跡"
+
+#: ../../gershom.rst:41
+msgid ""
+"As the flow of water began to recover, the results of the water "
+"conveyance project started to show. Emilia Sanders and her team obtained "
+"special permission to head to a location slightly away from the Dead Sea "
+"to investigate the situation around it."
+msgstr "水の流れが回復し、導水計画の成果が現れ始めた。エミリア・サンダースと彼女のチームは、死海周辺の状況を調査するため、特別な許可を得て死海から少し離れた地点へと向かった。"
+
+#: ../../gershom.rst:43
+msgid ""
+"The waves gently lapped at the shore, and at night, the humidity "
+"increased, causing the surrounding plants to glisten with dew. The water "
+"level of the Dead Sea rose, and new green oases were emerging along the "
+"shore. The once barren landscape was coming back to life."
+msgstr "波がゆっくりと打ち寄せ、夜には湿度が高まり、周囲の植物が結露に潤う様子が見られるようになった。死海の水面が以前よりも高くなり、岸辺には新しい緑のオアシスが生まれつつあった。かつての湿地が蘇りつつあるのだ。"
+
+#: ../../gershom.rst:45
+msgid ""
+"Emilia carefully observed the effects of the water level rise brought "
+"about by the water conveyance project and continued the investigation "
+"with her team."
+msgstr "エミリアは、導水計画がもたらした水位上昇の影響を詳しく観察し、チームとともに調査を進めていった。"
+
+#: ../../gershom.rst:47
+msgid ""
+"Emilia: \"This is a remarkable change. The success of the water "
+"conveyance project has increased the humidity around the Dead Sea, "
+"activating local vegetation and greenery.\""
+msgstr "エミリア「これは驚くべき変化ですね。導水計画が成功したことで、死海周辺の湿度が増し、地元の植物や緑地が活性化しているようです」"
+
+#: ../../gershom.rst:49
+msgid ""
+"They walked along the coastline, witnessing the transformation of once "
+"salty, barren land now covered in green vegetation, birds soaring in the "
+"sky, and new life thriving."
+msgstr "彼らは海岸沿いを歩き、かつての塩分で焼けた土地が緑の植物に覆われ、鳥たちが空を舞い、新たな命が息づく姿を目の当たりにした。"
+
+#: ../../gershom.rst:51
+msgid ""
+"Meanwhile, the local residents, embracing the change, began to walk "
+"towards a new future with joy. Local tourism operators also rejoiced at "
+"the resurgence of the beautiful scenery around the Dead Sea. Furthermore,"
+" the rise in the Dead Sea's water level led to the revival of wells and "
+"springs."
+msgstr "そんな中、地元に住む人々も、変化を喜びながら新たな未来を信じて歩み始めていた。地元の観光業者も、死海周辺の美しい景色が再び蘇ることに喜びを覚えていた。さらに死海の水位が上昇したことで、井戸や湧水の復活が見られるようになった。"
+
+#: ../../gershom.rst:53
+msgid ""
+"The miracle brought about by the water conveyance project brought new "
+"hope to the lives of the people in the region, and Emilia and her team "
+"watched with joy as they witnessed its results."
+msgstr "導水計画がもたらした奇跡は、地域の人々の生活に新たな希望をもたらし、エミリアたちはその成果を喜びながら見守っていた。"
+
+#: ../../gershom.rst:55
+msgid "Section 3: Land of Coexistence"
+msgstr "第3節: 共生の地"
+
+#: ../../gershom.rst:57
+msgid ""
+"As the water conveyance project progressed, the development of "
+"settlements began. In an effort to make effective use of the vacant land "
+"along the border between Israel and Jordan, a joint settlement involving "
+"Palestinians was planned. A landmine removal plan was centralized around "
+"Damian."
+msgstr ""
+"導水計画が進み、いよいよ入植地の開発が始まった。\n"
+"イスラエルとヨルダンの国境沿いの空き地を有効活用しようと、パレスチナを含めた三者による共同入植地も計画された。\n"
+"地雷除去計画がダミアンを中心にまとめられた。"
+
+#: ../../gershom.rst:59
+msgid ""
+"In this joint settlement, a dispute arose between Israeli and Palestinian"
+" architects regarding the prayer space. Michael Levi and Saleem "
+"Abdulrahman disagreed on whether to have a separate prayer space. Michael"
+" favored the separation of prayer spaces, while Saleem advocated for a "
+"shared chapel for Judaism, Christianity, and Islam."
+msgstr "その共同入植地では、イスラエル人とパレスチナ人の建築家の間で祈りの場所に関するいざこざが生じていた。ミカエル・レヴィとサレーム・アブドゥラフマーンは、入植地の建設計画の中で、共同で祈りの場所を設けることに意見が分かれていた。ミカエルは祈りの場所の分離を望んでおり、一方のサレームはユダヤ教、キリスト教、イスラム教の共同の礼拝堂の設置を求めていた。"
+
+#: ../../gershom.rst:61
+msgid ""
+"\"Even in a moderate joint settlement like this, we cannot maintain a "
+"shared chapel,\" argued Michael."
+msgstr "「いくら穏健派のイスラエル人とパレスチナ人が集まった共同入植地とはいえ、共同の礼拝堂は維持できない」とミカエルが主張する。"
+
+#: ../../gershom.rst:63
+msgid ""
+"However, Saleem retorted discontentedly, \"That's not true. Only a few "
+"people engage in extremist actions.\""
+msgstr "しかし、サレームは不服そうに反論する。「そんなことはない。過激な行動をするのは一部の人々だけだ」"
+
+#: ../../gershom.rst:65
+msgid ""
+"The debate grew heated, and other residents of the settlement became "
+"divided in their opinions. Tensions escalated, and the rift deepened."
+msgstr "議論は激しさを増し、入植地の他の住民たちも意見が割れる。緊張が高まり、対立が深まっていく。"
+
+#: ../../gershom.rst:67
+msgid ""
+"At that moment, a woman stood up quietly. She was a Jordanian immigrant "
+"who owned a house in the settlement and was deeply religious. Her name "
+"was Sara Al-Jabri."
+msgstr "その時、一人の女性が静かに立ち上がる。彼女はヨルダンからの移民であり、入植地で家を持っているが、信仰心が深い。彼女の名前はサラ・アル＝ジャブリだ。"
+
+#: ../../gershom.rst:69
+msgid ""
+"Sara: \"Everyone, we chose to live together here. Israelis and "
+"Palestinians alike must strive to live peacefully together. Religious "
+"conflicts diminish our strength. We must respect each other and find ways"
+" to coexist.\""
+msgstr "サラ「みなさん、私たちはここで共に暮らすことを選んだのです。イスラエル人もパレスチナ人も、共に平和に生活するために努力しなければなりません。信仰に関する対立は私たちの力を削ぎます。私たちは互いを尊重し、共存する方法を見つけなければなりません」"
+
+#: ../../gershom.rst:71
+msgid ""
+"Sara's words struck a chord with the residents of the settlement. Michael"
+" and Saleem locked eyes and took a deep breath. They realized they needed"
+" to transcend their religious differences and decided to build a shared "
+"prayer space together."
+msgstr "サラの言葉が、入植地の住民たちの心を打つ。ミカエルとサレームは互いに目を見つめ、深い呼吸をする。彼らは、信仰の対立を超え、共同で祈りの場を築くことを決意する。"
+
+#: ../../gershom.rst:73
+msgid ""
+"Michael: \"Sara, you're right. We shouldn't be in conflict; we need to "
+"cooperate.\""
+msgstr "ミカエル「サラさん、あなたは正しい。私たちは対立するのではなく、協力しなければならないのです」"
+
+#: ../../gershom.rst:75
+msgid ""
+"Saleem: \"I agree. By building a prayer space together, we can begin the "
+"path of coexistence.\""
+msgstr "サレーム「私も同意する。共に祈りの場を築くことで、共存の道を歩み始められるでしょう」"
+
+#: ../../gershom.rst:77
+msgid ""
+"Israeli and Palestinian people joined hands to establish the prayer "
+"space, symbolizing the beginning of a new era of coexistence."
+msgstr "祈りの場所の設置に向けて、イスラエル人とパレスチナ人は手を取り合い、共に努力を重ねるのだった。彼らの姿は、新たなる共生の始まりを象徴していた。"
+

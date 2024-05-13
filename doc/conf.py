@@ -19,7 +19,7 @@
 
 project = 'Jellyfish Hose'
 copyright = '2022, Akihiro Kuroiwa'
-author = 'Akihiro Kuroiwa'
+author = 'Akihiro Kuroiwa, ChatGPT of OpenAI, Gemini, Perplexity AI, Claude 3 Haiku'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.2'

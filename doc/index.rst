@@ -11,6 +11,10 @@ Welcome to Jellyfish Hose's documentation!
    :caption: Contents:
 
    jellyfish
+   moses
+   zipporah
+   gershom
+   eliezer
 
 
 

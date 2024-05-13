@@ -1,0 +1,296 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Akihiro Kuroiwa
+# This file is distributed under the same license as the Jellyfish Hose
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Jellyfish Hose \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-09 17:02+0900\n"
+"PO-Revision-Date: 2024-05-12 13:15+0900\n"
+"Last-Translator: Akihiro Kuroiwa <akuroiwa@env-reform.com>\n"
+"Language: ja\n"
+"Language-Team: Japanese\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../eliezer.rst:2
+msgid "Chapter 4: A New Horizon"
+msgstr "第4章: 新たなる地平線"
+
+#: ../../eliezer.rst:5
+msgid "Section 1: At the End of Settlement"
+msgstr "第1節: 入植の果て"
+
+#: ../../eliezer.rst:7
+msgid ""
+"The future shaped by the progress of settlements brought a new vitality "
+"to the region. The joint settlement was adorned with lush landscapes, and"
+" Israelis and Palestinians were seen living side by side. The once-"
+"forgotten conflicts were fading away, and the sprouting of a new "
+"community of cooperation was palpable."
+msgstr "入植が進んだ未来の姿は、地域に新たな息吹をもたらしていた。共同入植地は緑豊かな景観に彩られ、イスラエル人とパレスチナ人が肩を並べて生活する様子が広がっていた。かつての抗争は忘れ去られ、新たな共同体の芽生えが感じられた。"
+
+#: ../../eliezer.rst:9
+msgid ""
+"At the heart of the joint settlement stood a beautiful synagogue and "
+"mosque, jointly constructed by Michael Levi and Saleem Abdulrahman. "
+"Surrounding them were verdant farmlands and neatly arranged houses, "
+"pulsating with the energy of the people."
+msgstr "共同入植地の中心には、ミカエル・レヴィとサレーム・アブドゥラフマーンが共同で建設した美しいシナゴーグとモスクが並んで立っていた。その周囲には、緑豊かな農地と整然と並んだ住居が広がり、人々の活気が感じられた。"
+
+#: ../../eliezer.rst:11
+msgid ""
+"Michael and Saleem, who had once been in conflict due to their "
+"differences, now led the community together as symbols of mutual respect "
+"and support. They had overcome past grievances, demonstrating the "
+"importance of coexistence and cooperation to the people of the region."
+msgstr "かつて考えの違いから対立していたミカエルとサレームは、共同入植地のリーダーとして、互いを尊重し支え合いながら共同体を導いていた。彼らは、過去の苦しみを乗り越え、共存と協力の大切さを地域の人々に示していた。"
+
+#: ../../eliezer.rst:13
+msgid ""
+"In the joint settlement, Muslims and Jews lived together, respecting each"
+" other's cultures and customs. Children played, learned, and grew "
+"together without distinction between Muslims and Jews."
+msgstr "共同入植地では、イスラム教徒とユダヤ教徒が共に暮らしており、互いの文化や習慣を尊重し合いながら生活していた。子供たちは、イスラム教徒とユダヤ教徒の区別なく一緒に遊び、学び、成長していた。"
+
+#: ../../eliezer.rst:15
+msgid ""
+"The development of the joint settlement filled people with hope and "
+"anticipation for the future of the region. By overcoming past conflicts "
+"and building a community of coexistence, they were moving towards a new "
+"horizon."
+msgstr "共同入植地の発展は、地域の未来への希望と期待を抱かせていた。人々は過去の対立を克服し、共同生活を築き上げることで、新たな地平線に向かって歩みを進めていた。"
+
+#: ../../eliezer.rst:17
+msgid ""
+"The joint settlement had evolved into a bustling city. Besides lush "
+"farmlands, modern buildings and facilities adorned the area, painting a "
+"new horizon for the region."
+msgstr "共同入植地は活気に満ちた都市へと成長していた。緑豊かな農地に加えて、近代的な建物や施設が立ち並び、新しい地平線が地域を彩っていた。"
+
+#: ../../eliezer.rst:19
+msgid ""
+"At the heart of the city, high-rise buildings and commercial "
+"establishments adorned with solar panels lined the streets, creating a "
+"modern urban landscape. Autonomous vehicles cruised the roads, ensuring "
+"smooth mobility for the residents. Parks and squares became bustling hubs"
+" where people gathered, filling the air with vibrancy."
+msgstr "都市の中心部には、太陽光発電パネルが屋根を覆う高層ビルや商業施設が立ち並び、近代的な都市が広がっていた。自動運転車が道路を走り、人々の移動をスムーズにしていた。公園や広場には、人々が集い、活気に満ちた時間を過ごしていた。"
+
+#: ../../eliezer.rst:21
+msgid ""
+"State-of-the-art schools, hospitals, and parks were established, "
+"enriching the community's infrastructure. Essential utilities like water "
+"and electricity were also provided, ensuring a comfortable living "
+"environment."
+msgstr "最新設備を備えた学校や病院、公園などの施設が整備され、地域の生活基盤が充実していた。また、水道や電気などのインフラも整備され、快適な生活環境が整えられていた。"
+
+#: ../../eliezer.rst:23
+msgid ""
+"Politician Sarah Al-Jabri played a crucial role in contributing to the "
+"development of the joint settlement. She was involved in shaping policies"
+" and projects that supported the community's cohesion and progress."
+msgstr "政治家であるサラ・アル＝ジャブリは、共同入植地の発展に貢献するために尽力していた。彼女は、共同入植地の発展を支える政策やプロジェクトに携わり、地域社会の結束と発展を促進していた。"
+
+#: ../../eliezer.rst:25
+msgid ""
+"Sarah spearheaded educational reforms to teach the children of the joint "
+"settlement the importance of peace and coexistence. She developed "
+"educational programs that fostered understanding and respect for each "
+"other's cultures and traditions among Muslim and Jewish children."
+msgstr "サラは、共同入植地の子供たちが平和と共存の大切さを学ぶために、教育改革を推進した。彼女は、イスラム教徒とユダヤ教徒が互いの文化や習慣を理解し、尊重できるような教育プログラムを開発した。"
+
+#: ../../eliezer.rst:27
+msgid ""
+"Furthermore, she promoted civic engagement through student councils to "
+"instill the importance of self-governance and democracy."
+msgstr "また、生徒会による自治を通して住民自治の大切さを学ばせ、民主主義の理念が根付くようにした。"
+
+#: ../../eliezer.rst:29
+msgid ""
+"To boost economic development in the joint settlement, Sarah implemented "
+"various policies. She supported entrepreneurs and promoted tourism to "
+"revitalize the local economy."
+msgstr "サラは、共同入植地の経済発展を促進するために、様々な政策を実行した。彼女は、起業家支援や観光業の振興など、地域経済を活性化する取り組みを進めた。"
+
+#: ../../eliezer.rst:31
+msgid ""
+"Sarah also actively promoted international exchange to showcase the "
+"success of the joint settlement to the world. She engaged with "
+"politicians, scholars, and civil society activists worldwide, advocating "
+"for the importance of peace and coexistence."
+msgstr "サラは、また、共同入植地の成功事例を世界に発信するために、国際交流を積極的に推進した。彼女は、世界中の政治家や学者、市民社会活動家と交流し、平和共存の重要性を訴えた。"
+
+#: ../../eliezer.rst:33
+msgid ""
+"Through Sarah's efforts, the joint settlement became a symbol of unity "
+"and progress in the community. She remained committed to advancing peace "
+"and coexistence."
+msgstr "サラの努力によって、共同入植地は、地域社会の結束と発展の象徴となった。彼女は、平和と共存を実現するために、今後も尽力していく。"
+
+#: ../../eliezer.rst:35
+msgid ""
+"The development of the joint settlement symbolized hope for the region's "
+"future. People had overcome past conflicts to build a shared life "
+"together, marching toward a new horizon. The joint settlement stood as a "
+"beacon of hope, inspiring peace and coexistence worldwide."
+msgstr "共同入植地の発展は、地域の未来への希望を象徴していた。人々は過去の対立を乗り越え、共同生活を築き上げることで、新たな地平線に向かって歩みを進めていた。共同入植地は、平和と共存のモデルとして、世界に希望を与える存在となっていく。"
+
+#: ../../eliezer.rst:39
+msgid "Section 2: The Stage of Negotiation"
+msgstr "第2節: 交渉の舞台"
+
+#: ../../eliezer.rst:41
+msgid ""
+"Sarah Al-Jabri received the news that the Israeli government and the "
+"Palestinian Authority were starting negotiations on the United States' "
+"proposal after long negotiations. She sat at the dinner table, watching "
+"the television broadcast with a mixture of anticipation and tension."
+msgstr "サラ・アル＝ジャブリは、長い交渉の末にイスラエル政府とパレスチナ自治政府が合衆国案の交渉に着手するという報せを受け、テレビ中継を観ながら、期待と緊張が入り混じった気持ちで会食に臨んでいた。"
+
+#: ../../eliezer.rst:43
+msgid ""
+"During the dinner, Sarah reunited with her colleagues who had "
+"participated in the water pipeline project, sharing joy and reminiscing "
+"about old memories. They had worked together on the project for a long "
+"time, overcoming challenges as comrades."
+msgstr "会食の席で、サラは導水計画に参加した仲間たちと再会し、懐かしい思い出にひたりながら喜びを分かち合った。彼らは長い間、共に計画に取り組み、困難を乗り越えてきた仲間だった。"
+
+#: ../../eliezer.rst:45
+msgid ""
+"While feeling the importance and complexity of the negotiations, Sarah "
+"and her colleagues discussed the negotiations on the United States' "
+"proposal. They exchanged opinions from various perspectives on what "
+"political system would be suitable for the region and how coexistence "
+"could be achieved."
+msgstr "一方で、交渉の重要性と難しさを改めて感じながら、サラと仲間たちは合衆国案の交渉について話し合った。どのような政治体制が地域に適しているのか、どのように共存していくのか、様々な視点から意見を交換した。"
+
+#: ../../eliezer.rst:47
+msgid ""
+"Hope and anxiety mingled in the negotiations. While there was hope for "
+"resolving long-standing conflicts and building peace and stability in the"
+" region, there were also risks of failure and challenges ahead."
+msgstr "交渉には希望と不安が入り混じっていた。一方で、長年の対立や紛争を解決し、地域の平和と安定を築く可能性があることに期待が膨らむ一方で、失敗のリスクや困難も見え隠れしていた。"
+
+#: ../../eliezer.rst:49
+msgid ""
+"In contrast to the seriousness of the negotiations, light chatter and "
+"laughter filled the atmosphere at the dinner table. Reuniting with her "
+"colleagues eased the tension and provided support."
+msgstr "交渉の真剣さとは対照的に、会食の席では軽い雑談や笑い声が飛び交い、和やかな雰囲気が漂っていた。仲間たちとの再会が、緊張感を和らげ、心の支えとなっていた。"
+
+#: ../../eliezer.rst:51
+msgid ""
+"With new prospects in mind, Sarah and her colleagues took a step towards "
+"the future as they prepared for negotiations on the United States' "
+"proposal."
+msgstr "合衆国案の交渉に向けて、サラと彼女の仲間たちは新たなる展望を抱きながら、未来への一歩を踏み出していった。"
+
+#: ../../eliezer.rst:53
+msgid ""
+"For the second phase of the water pipeline project, expansion into Egypt "
+"and Saudi Arabia had been decided, offering stability in the lives of "
+"those living in the Middle East and serving as a source of employment."
+msgstr "導水計画の2期計画では、エジプトやサウジアラビアへの入植地拡大が決定され、中東に暮らす人々の生活の安定や雇用の受け皿となることが期待されている。"
+
+#: ../../eliezer.rst:57
+msgid "Reference"
+msgstr "Reference"
+
+#: ../../eliezer.rst:59
+#, python-format
+msgid ""
+"`Wikipedia contributors. (2024, May 5). Red Sea–Dead Sea Water "
+"Conveyance. In Wikipedia, The Free Encyclopedia. Retrieved 12:32, May 7, "
+"2024, from "
+"<https://en.wikipedia.org/w/index.php?title=Red_Sea%E2%80%93Dead_Sea_Water_Conveyance&oldid=1222439204>`__"
+msgstr "`Wikipedia contributors. (2024, May 5). Red Sea–Dead Sea Water Conveyance. In Wikipedia, The Free Encyclopedia. Retrieved 12:32, May 7, 2024, from <https://en.wikipedia.org/w/index.php?title=Red_Sea%E2%80%93Dead_Sea_Water_Conveyance&oldid=1222439204>`__"
+
+#: ../../eliezer.rst:63
+msgid ""
+"`我田引水 公平な水利を得られないパレスチナ人. (2009). ライブラリ アムネスティ報告書. "
+"<https://www.amnesty.or.jp/library/report/pdf/troubledwaters_101108.pdf>`__"
+msgstr "`我田引水 公平な水利を得られないパレスチナ人. (2009). ライブラリ アムネスティ報告書. <https://www.amnesty.or.jp/library/report/pdf/troubledwaters_101108.pdf>`__"
+
+#: ../../eliezer.rst:66
+msgid ""
+"`Mekorot. (2020b, November 25). Expanding the Sabha desalination plant | "
+"Mekorot. <https://www.mekorot-int.com/blog/project/sabha-and-the-sea-"
+"line/>`__"
+msgstr "`Mekorot. (2020b, November 25). Expanding the Sabha desalination plant | Mekorot. <https://www.mekorot-int.com/blog/project/sabha-and-the-sea-line/>`__"
+
+#: ../../eliezer.rst:69
+msgid ""
+"`Lieberman, G. (2021, September 26). NIS 500m expansion of Eilat "
+"desalination plant underway. Globes. <https://en.globes.co.il/en/article-"
+"nis-500m-expansion-of-eilat-desalination-plant-underway-1001385413>`__"
+msgstr "`Lieberman, G. (2021, September 26). NIS 500m expansion of Eilat desalination plant underway. Globes. <https://en.globes.co.il/en/article-nis-500m-expansion-of-eilat-desalination-plant-underway-1001385413>`__"
+
+#: ../../eliezer.rst:72
+msgid ""
+"`Eplaceide. (2021, March 30). EILAT SEA WATER DESALINATION PLANT - Israel"
+" Desalination Society. Israel Desalination Society - Desalination in "
+"Israel. <https://ildesal.org.il/eilat-sea-water-desalination-plant/>`__"
+msgstr "`Eplaceide. (2021, March 30). EILAT SEA WATER DESALINATION PLANT - Israel Desalination Society. Israel Desalination Society - Desalination in Israel. <https://ildesal.org.il/eilat-sea-water-desalination-plant/>`__"
+
+#: ../../eliezer.rst:76
+msgid ""
+"`Wikipedia contributors. (2024, April 28). Mekorot. Wikipedia. "
+"<https://en.wikipedia.org/wiki/Mekorot>`__"
+msgstr "`Wikipedia contributors. (2024, April 28). Mekorot. Wikipedia. <https://en.wikipedia.org/wiki/Mekorot>`__"
+
+#: ../../eliezer.rst:78
+msgid ""
+"`Israel Desalination Society. (2023, August 21). Desalination in Israel -"
+" Israel Desalination Society. Israel Desalination Society - Desalination "
+"in Israel. <https://ildesal.org.il/desalination-in-israel/>`__"
+msgstr "`Israel Desalination Society. (2023, August 21). Desalination in Israel - Israel Desalination Society. Israel Desalination Society - Desalination in Israel. <https://ildesal.org.il/desalination-in-israel/>`__"
+
+#: ../../eliezer.rst:83
+#, python-format
+msgid ""
+"`Green Caravan in Aqaba for first time to plant more than 1500 fruit "
+"trees | The Arab Group for the Protection of Nature. (n.d.). The Arab "
+"Group for the Protection of Nature. "
+"<https://www.apnature.org/en/media/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1"
+"/green-caravan-aqaba-first-time-plant-more-1500-fruit-trees>`__"
+msgstr "`Green Caravan in Aqaba for first time to plant more than 1500 fruit trees | The Arab Group for the Protection of Nature. (n.d.). The Arab Group for the Protection of Nature. <https://www.apnature.org/en/media/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/green-caravan-aqaba-first-time-plant-more-1500-fruit-trees>`__"
+
+#: ../../eliezer.rst:88
+msgid ""
+"`魅惑の国ヨルダン 早瀬雅博 "
+"<https://www.jhso.org/trans/4%20Jordan_Hayase_2002-2004.pdf>`__"
+msgstr "`魅惑の国ヨルダン 早瀬雅博 <https://www.jhso.org/trans/4%20Jordan_Hayase_2002-2004.pdf>`__"
+
+#: ../../eliezer.rst:90
+msgid ""
+"`Positive News. (2023, July 21). The farm that grows vegetables in the "
+"middle of the desert. <https://www.positive.news/environment/growing-"
+"food-in-the-desert/>`__"
+msgstr "`Positive News. (2023, July 21). The farm that grows vegetables in the middle of the desert. <https://www.positive.news/environment/growing-food-in-the-desert/>`__"
+
+#: ../../eliezer.rst:93
+msgid ""
+"`公文勇喜, 福原隆一, & 村上雅博. (2004). VII-30 紅海 死海導水計画の問題と課題. JSCE 公益社団法人 土木学会. "
+"<http://library.jsce.or.jp/jsce/open/00550/2004/10-0442.pdf>`__"
+msgstr "`公文勇喜, 福原隆一, & 村上雅博. (2004). VII-30 紅海 死海導水計画の問題と課題. JSCE 公益社団法人 土木学会. <http://library.jsce.or.jp/jsce/open/00550/2004/10-0442.pdf>`__"
+
+#: ../../eliezer.rst:96
+msgid ""
+"`Ikeya, H. (2007). A Proposal on Arid Land Sabo Works - a Case Study in "
+"Jordan --. 砂防学会誌, 60(4), 61 – 66. "
+"<https://www.jstage.jst.go.jp/article/sabo1973/60/4/60_4_61/_pdf>`__"
+msgstr "`Ikeya, H. (2007). A Proposal on Arid Land Sabo Works - a Case Study in Jordan --. 砂防学会誌, 60(4), 61 – 66. <https://www.jstage.jst.go.jp/article/sabo1973/60/4/60_4_61/_pdf>`__"
+
+#: ../../eliezer.rst:100
+msgid ""
+"`イスラエル・ヨルダン旅行記6月8日. (2010). <https://www.logos-"
+"ministries.org/israel/israel%2Bjordan06_08.html>`__"
+msgstr "`イスラエル・ヨルダン旅行記6月8日. (2010). <https://www.logos-ministries.org/israel/israel%2Bjordan06_08.html>`__"
+
